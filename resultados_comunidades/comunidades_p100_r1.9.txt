@@ -1,0 +1,2205 @@
+=== Relatório de Comunidades ===
+Peso mínimo considerado: 100
+Resolução de Louvain: 1.9
+Total de comunidades: 533
+Modularidade: -0.0015
+
+📈 Tamanho das comunidades (maior → menor):
+ - Comunidade 203: 29 nós
+ - Comunidade 363: 14 nós
+ - Comunidade 452: 10 nós
+ - Comunidade 460: 6 nós
+ - Comunidade 517: 4 nós
+ - Comunidade 532: 3 nós
+ - Comunidade 513: 2 nós
+ - Comunidade 312: 2 nós
+ - Comunidade 506: 2 nós
+ - Comunidade 446: 2 nós
+ - Comunidade 0: 1 nós
+ - Comunidade 1: 1 nós
+ - Comunidade 2: 1 nós
+ - Comunidade 3: 1 nós
+ - Comunidade 4: 1 nós
+ - Comunidade 5: 1 nós
+ - Comunidade 6: 1 nós
+ - Comunidade 7: 1 nós
+ - Comunidade 8: 1 nós
+ - Comunidade 9: 1 nós
+ - Comunidade 10: 1 nós
+ - Comunidade 11: 1 nós
+ - Comunidade 12: 1 nós
+ - Comunidade 13: 1 nós
+ - Comunidade 14: 1 nós
+ - Comunidade 15: 1 nós
+ - Comunidade 17: 1 nós
+ - Comunidade 18: 1 nós
+ - Comunidade 19: 1 nós
+ - Comunidade 20: 1 nós
+ - Comunidade 21: 1 nós
+ - Comunidade 22: 1 nós
+ - Comunidade 23: 1 nós
+ - Comunidade 24: 1 nós
+ - Comunidade 25: 1 nós
+ - Comunidade 26: 1 nós
+ - Comunidade 27: 1 nós
+ - Comunidade 28: 1 nós
+ - Comunidade 29: 1 nós
+ - Comunidade 30: 1 nós
+ - Comunidade 31: 1 nós
+ - Comunidade 32: 1 nós
+ - Comunidade 33: 1 nós
+ - Comunidade 34: 1 nós
+ - Comunidade 35: 1 nós
+ - Comunidade 36: 1 nós
+ - Comunidade 37: 1 nós
+ - Comunidade 38: 1 nós
+ - Comunidade 324: 1 nós
+ - Comunidade 40: 1 nós
+ - Comunidade 41: 1 nós
+ - Comunidade 42: 1 nós
+ - Comunidade 43: 1 nós
+ - Comunidade 44: 1 nós
+ - Comunidade 45: 1 nós
+ - Comunidade 46: 1 nós
+ - Comunidade 47: 1 nós
+ - Comunidade 48: 1 nós
+ - Comunidade 49: 1 nós
+ - Comunidade 50: 1 nós
+ - Comunidade 51: 1 nós
+ - Comunidade 52: 1 nós
+ - Comunidade 53: 1 nós
+ - Comunidade 54: 1 nós
+ - Comunidade 55: 1 nós
+ - Comunidade 56: 1 nós
+ - Comunidade 57: 1 nós
+ - Comunidade 58: 1 nós
+ - Comunidade 59: 1 nós
+ - Comunidade 60: 1 nós
+ - Comunidade 61: 1 nós
+ - Comunidade 62: 1 nós
+ - Comunidade 63: 1 nós
+ - Comunidade 64: 1 nós
+ - Comunidade 65: 1 nós
+ - Comunidade 66: 1 nós
+ - Comunidade 67: 1 nós
+ - Comunidade 68: 1 nós
+ - Comunidade 69: 1 nós
+ - Comunidade 70: 1 nós
+ - Comunidade 71: 1 nós
+ - Comunidade 72: 1 nós
+ - Comunidade 73: 1 nós
+ - Comunidade 74: 1 nós
+ - Comunidade 75: 1 nós
+ - Comunidade 76: 1 nós
+ - Comunidade 77: 1 nós
+ - Comunidade 79: 1 nós
+ - Comunidade 80: 1 nós
+ - Comunidade 81: 1 nós
+ - Comunidade 82: 1 nós
+ - Comunidade 83: 1 nós
+ - Comunidade 84: 1 nós
+ - Comunidade 85: 1 nós
+ - Comunidade 86: 1 nós
+ - Comunidade 87: 1 nós
+ - Comunidade 88: 1 nós
+ - Comunidade 89: 1 nós
+ - Comunidade 90: 1 nós
+ - Comunidade 528: 1 nós
+ - Comunidade 92: 1 nós
+ - Comunidade 93: 1 nós
+ - Comunidade 94: 1 nós
+ - Comunidade 95: 1 nós
+ - Comunidade 96: 1 nós
+ - Comunidade 98: 1 nós
+ - Comunidade 99: 1 nós
+ - Comunidade 100: 1 nós
+ - Comunidade 101: 1 nós
+ - Comunidade 103: 1 nós
+ - Comunidade 104: 1 nós
+ - Comunidade 105: 1 nós
+ - Comunidade 106: 1 nós
+ - Comunidade 418: 1 nós
+ - Comunidade 108: 1 nós
+ - Comunidade 109: 1 nós
+ - Comunidade 110: 1 nós
+ - Comunidade 111: 1 nós
+ - Comunidade 112: 1 nós
+ - Comunidade 113: 1 nós
+ - Comunidade 114: 1 nós
+ - Comunidade 115: 1 nós
+ - Comunidade 116: 1 nós
+ - Comunidade 117: 1 nós
+ - Comunidade 118: 1 nós
+ - Comunidade 119: 1 nós
+ - Comunidade 120: 1 nós
+ - Comunidade 126: 1 nós
+ - Comunidade 122: 1 nós
+ - Comunidade 123: 1 nós
+ - Comunidade 124: 1 nós
+ - Comunidade 125: 1 nós
+ - Comunidade 127: 1 nós
+ - Comunidade 128: 1 nós
+ - Comunidade 129: 1 nós
+ - Comunidade 130: 1 nós
+ - Comunidade 131: 1 nós
+ - Comunidade 132: 1 nós
+ - Comunidade 133: 1 nós
+ - Comunidade 134: 1 nós
+ - Comunidade 135: 1 nós
+ - Comunidade 136: 1 nós
+ - Comunidade 137: 1 nós
+ - Comunidade 138: 1 nós
+ - Comunidade 139: 1 nós
+ - Comunidade 140: 1 nós
+ - Comunidade 141: 1 nós
+ - Comunidade 142: 1 nós
+ - Comunidade 143: 1 nós
+ - Comunidade 144: 1 nós
+ - Comunidade 145: 1 nós
+ - Comunidade 146: 1 nós
+ - Comunidade 147: 1 nós
+ - Comunidade 148: 1 nós
+ - Comunidade 149: 1 nós
+ - Comunidade 150: 1 nós
+ - Comunidade 151: 1 nós
+ - Comunidade 152: 1 nós
+ - Comunidade 153: 1 nós
+ - Comunidade 154: 1 nós
+ - Comunidade 155: 1 nós
+ - Comunidade 156: 1 nós
+ - Comunidade 157: 1 nós
+ - Comunidade 159: 1 nós
+ - Comunidade 160: 1 nós
+ - Comunidade 162: 1 nós
+ - Comunidade 163: 1 nós
+ - Comunidade 164: 1 nós
+ - Comunidade 165: 1 nós
+ - Comunidade 166: 1 nós
+ - Comunidade 167: 1 nós
+ - Comunidade 168: 1 nós
+ - Comunidade 169: 1 nós
+ - Comunidade 170: 1 nós
+ - Comunidade 171: 1 nós
+ - Comunidade 172: 1 nós
+ - Comunidade 173: 1 nós
+ - Comunidade 174: 1 nós
+ - Comunidade 175: 1 nós
+ - Comunidade 176: 1 nós
+ - Comunidade 177: 1 nós
+ - Comunidade 178: 1 nós
+ - Comunidade 179: 1 nós
+ - Comunidade 180: 1 nós
+ - Comunidade 181: 1 nós
+ - Comunidade 182: 1 nós
+ - Comunidade 183: 1 nós
+ - Comunidade 184: 1 nós
+ - Comunidade 185: 1 nós
+ - Comunidade 186: 1 nós
+ - Comunidade 359: 1 nós
+ - Comunidade 188: 1 nós
+ - Comunidade 189: 1 nós
+ - Comunidade 190: 1 nós
+ - Comunidade 191: 1 nós
+ - Comunidade 192: 1 nós
+ - Comunidade 193: 1 nós
+ - Comunidade 194: 1 nós
+ - Comunidade 195: 1 nós
+ - Comunidade 197: 1 nós
+ - Comunidade 198: 1 nós
+ - Comunidade 199: 1 nós
+ - Comunidade 200: 1 nós
+ - Comunidade 201: 1 nós
+ - Comunidade 202: 1 nós
+ - Comunidade 204: 1 nós
+ - Comunidade 205: 1 nós
+ - Comunidade 206: 1 nós
+ - Comunidade 208: 1 nós
+ - Comunidade 209: 1 nós
+ - Comunidade 210: 1 nós
+ - Comunidade 211: 1 nós
+ - Comunidade 212: 1 nós
+ - Comunidade 213: 1 nós
+ - Comunidade 214: 1 nós
+ - Comunidade 215: 1 nós
+ - Comunidade 216: 1 nós
+ - Comunidade 217: 1 nós
+ - Comunidade 219: 1 nós
+ - Comunidade 220: 1 nós
+ - Comunidade 221: 1 nós
+ - Comunidade 222: 1 nós
+ - Comunidade 223: 1 nós
+ - Comunidade 225: 1 nós
+ - Comunidade 226: 1 nós
+ - Comunidade 227: 1 nós
+ - Comunidade 228: 1 nós
+ - Comunidade 230: 1 nós
+ - Comunidade 231: 1 nós
+ - Comunidade 232: 1 nós
+ - Comunidade 233: 1 nós
+ - Comunidade 234: 1 nós
+ - Comunidade 235: 1 nós
+ - Comunidade 236: 1 nós
+ - Comunidade 237: 1 nós
+ - Comunidade 238: 1 nós
+ - Comunidade 239: 1 nós
+ - Comunidade 240: 1 nós
+ - Comunidade 241: 1 nós
+ - Comunidade 242: 1 nós
+ - Comunidade 243: 1 nós
+ - Comunidade 244: 1 nós
+ - Comunidade 245: 1 nós
+ - Comunidade 246: 1 nós
+ - Comunidade 247: 1 nós
+ - Comunidade 248: 1 nós
+ - Comunidade 249: 1 nós
+ - Comunidade 250: 1 nós
+ - Comunidade 251: 1 nós
+ - Comunidade 252: 1 nós
+ - Comunidade 253: 1 nós
+ - Comunidade 254: 1 nós
+ - Comunidade 255: 1 nós
+ - Comunidade 256: 1 nós
+ - Comunidade 257: 1 nós
+ - Comunidade 258: 1 nós
+ - Comunidade 259: 1 nós
+ - Comunidade 260: 1 nós
+ - Comunidade 261: 1 nós
+ - Comunidade 262: 1 nós
+ - Comunidade 263: 1 nós
+ - Comunidade 264: 1 nós
+ - Comunidade 265: 1 nós
+ - Comunidade 266: 1 nós
+ - Comunidade 267: 1 nós
+ - Comunidade 268: 1 nós
+ - Comunidade 269: 1 nós
+ - Comunidade 270: 1 nós
+ - Comunidade 271: 1 nós
+ - Comunidade 272: 1 nós
+ - Comunidade 273: 1 nós
+ - Comunidade 275: 1 nós
+ - Comunidade 276: 1 nós
+ - Comunidade 277: 1 nós
+ - Comunidade 278: 1 nós
+ - Comunidade 279: 1 nós
+ - Comunidade 280: 1 nós
+ - Comunidade 281: 1 nós
+ - Comunidade 282: 1 nós
+ - Comunidade 283: 1 nós
+ - Comunidade 284: 1 nós
+ - Comunidade 285: 1 nós
+ - Comunidade 286: 1 nós
+ - Comunidade 288: 1 nós
+ - Comunidade 290: 1 nós
+ - Comunidade 292: 1 nós
+ - Comunidade 293: 1 nós
+ - Comunidade 294: 1 nós
+ - Comunidade 295: 1 nós
+ - Comunidade 296: 1 nós
+ - Comunidade 297: 1 nós
+ - Comunidade 298: 1 nós
+ - Comunidade 299: 1 nós
+ - Comunidade 300: 1 nós
+ - Comunidade 301: 1 nós
+ - Comunidade 302: 1 nós
+ - Comunidade 303: 1 nós
+ - Comunidade 304: 1 nós
+ - Comunidade 305: 1 nós
+ - Comunidade 306: 1 nós
+ - Comunidade 307: 1 nós
+ - Comunidade 308: 1 nós
+ - Comunidade 309: 1 nós
+ - Comunidade 310: 1 nós
+ - Comunidade 311: 1 nós
+ - Comunidade 313: 1 nós
+ - Comunidade 314: 1 nós
+ - Comunidade 315: 1 nós
+ - Comunidade 316: 1 nós
+ - Comunidade 317: 1 nós
+ - Comunidade 318: 1 nós
+ - Comunidade 319: 1 nós
+ - Comunidade 320: 1 nós
+ - Comunidade 321: 1 nós
+ - Comunidade 322: 1 nós
+ - Comunidade 323: 1 nós
+ - Comunidade 325: 1 nós
+ - Comunidade 326: 1 nós
+ - Comunidade 327: 1 nós
+ - Comunidade 328: 1 nós
+ - Comunidade 329: 1 nós
+ - Comunidade 330: 1 nós
+ - Comunidade 331: 1 nós
+ - Comunidade 332: 1 nós
+ - Comunidade 333: 1 nós
+ - Comunidade 334: 1 nós
+ - Comunidade 335: 1 nós
+ - Comunidade 336: 1 nós
+ - Comunidade 337: 1 nós
+ - Comunidade 339: 1 nós
+ - Comunidade 340: 1 nós
+ - Comunidade 341: 1 nós
+ - Comunidade 342: 1 nós
+ - Comunidade 343: 1 nós
+ - Comunidade 344: 1 nós
+ - Comunidade 345: 1 nós
+ - Comunidade 346: 1 nós
+ - Comunidade 347: 1 nós
+ - Comunidade 348: 1 nós
+ - Comunidade 229: 1 nós
+ - Comunidade 350: 1 nós
+ - Comunidade 351: 1 nós
+ - Comunidade 352: 1 nós
+ - Comunidade 353: 1 nós
+ - Comunidade 354: 1 nós
+ - Comunidade 355: 1 nós
+ - Comunidade 357: 1 nós
+ - Comunidade 358: 1 nós
+ - Comunidade 360: 1 nós
+ - Comunidade 361: 1 nós
+ - Comunidade 362: 1 nós
+ - Comunidade 274: 1 nós
+ - Comunidade 364: 1 nós
+ - Comunidade 365: 1 nós
+ - Comunidade 366: 1 nós
+ - Comunidade 367: 1 nós
+ - Comunidade 368: 1 nós
+ - Comunidade 369: 1 nós
+ - Comunidade 370: 1 nós
+ - Comunidade 371: 1 nós
+ - Comunidade 372: 1 nós
+ - Comunidade 373: 1 nós
+ - Comunidade 374: 1 nós
+ - Comunidade 375: 1 nós
+ - Comunidade 376: 1 nós
+ - Comunidade 377: 1 nós
+ - Comunidade 378: 1 nós
+ - Comunidade 379: 1 nós
+ - Comunidade 380: 1 nós
+ - Comunidade 381: 1 nós
+ - Comunidade 382: 1 nós
+ - Comunidade 383: 1 nós
+ - Comunidade 384: 1 nós
+ - Comunidade 385: 1 nós
+ - Comunidade 386: 1 nós
+ - Comunidade 387: 1 nós
+ - Comunidade 388: 1 nós
+ - Comunidade 389: 1 nós
+ - Comunidade 390: 1 nós
+ - Comunidade 391: 1 nós
+ - Comunidade 392: 1 nós
+ - Comunidade 393: 1 nós
+ - Comunidade 394: 1 nós
+ - Comunidade 395: 1 nós
+ - Comunidade 396: 1 nós
+ - Comunidade 397: 1 nós
+ - Comunidade 398: 1 nós
+ - Comunidade 399: 1 nós
+ - Comunidade 400: 1 nós
+ - Comunidade 401: 1 nós
+ - Comunidade 403: 1 nós
+ - Comunidade 404: 1 nós
+ - Comunidade 405: 1 nós
+ - Comunidade 406: 1 nós
+ - Comunidade 407: 1 nós
+ - Comunidade 408: 1 nós
+ - Comunidade 409: 1 nós
+ - Comunidade 410: 1 nós
+ - Comunidade 411: 1 nós
+ - Comunidade 412: 1 nós
+ - Comunidade 413: 1 nós
+ - Comunidade 414: 1 nós
+ - Comunidade 415: 1 nós
+ - Comunidade 416: 1 nós
+ - Comunidade 417: 1 nós
+ - Comunidade 419: 1 nós
+ - Comunidade 420: 1 nós
+ - Comunidade 421: 1 nós
+ - Comunidade 422: 1 nós
+ - Comunidade 423: 1 nós
+ - Comunidade 425: 1 nós
+ - Comunidade 426: 1 nós
+ - Comunidade 427: 1 nós
+ - Comunidade 428: 1 nós
+ - Comunidade 429: 1 nós
+ - Comunidade 430: 1 nós
+ - Comunidade 431: 1 nós
+ - Comunidade 432: 1 nós
+ - Comunidade 433: 1 nós
+ - Comunidade 434: 1 nós
+ - Comunidade 435: 1 nós
+ - Comunidade 436: 1 nós
+ - Comunidade 437: 1 nós
+ - Comunidade 438: 1 nós
+ - Comunidade 439: 1 nós
+ - Comunidade 440: 1 nós
+ - Comunidade 441: 1 nós
+ - Comunidade 442: 1 nós
+ - Comunidade 443: 1 nós
+ - Comunidade 444: 1 nós
+ - Comunidade 445: 1 nós
+ - Comunidade 447: 1 nós
+ - Comunidade 448: 1 nós
+ - Comunidade 449: 1 nós
+ - Comunidade 450: 1 nós
+ - Comunidade 451: 1 nós
+ - Comunidade 521: 1 nós
+ - Comunidade 453: 1 nós
+ - Comunidade 454: 1 nós
+ - Comunidade 455: 1 nós
+ - Comunidade 456: 1 nós
+ - Comunidade 458: 1 nós
+ - Comunidade 459: 1 nós
+ - Comunidade 16: 1 nós
+ - Comunidade 461: 1 nós
+ - Comunidade 462: 1 nós
+ - Comunidade 463: 1 nós
+ - Comunidade 464: 1 nós
+ - Comunidade 465: 1 nós
+ - Comunidade 466: 1 nós
+ - Comunidade 467: 1 nós
+ - Comunidade 468: 1 nós
+ - Comunidade 469: 1 nós
+ - Comunidade 470: 1 nós
+ - Comunidade 471: 1 nós
+ - Comunidade 472: 1 nós
+ - Comunidade 473: 1 nós
+ - Comunidade 474: 1 nós
+ - Comunidade 475: 1 nós
+ - Comunidade 476: 1 nós
+ - Comunidade 477: 1 nós
+ - Comunidade 478: 1 nós
+ - Comunidade 479: 1 nós
+ - Comunidade 480: 1 nós
+ - Comunidade 481: 1 nós
+ - Comunidade 482: 1 nós
+ - Comunidade 483: 1 nós
+ - Comunidade 484: 1 nós
+ - Comunidade 485: 1 nós
+ - Comunidade 486: 1 nós
+ - Comunidade 487: 1 nós
+ - Comunidade 488: 1 nós
+ - Comunidade 489: 1 nós
+ - Comunidade 490: 1 nós
+ - Comunidade 491: 1 nós
+ - Comunidade 492: 1 nós
+ - Comunidade 493: 1 nós
+ - Comunidade 494: 1 nós
+ - Comunidade 495: 1 nós
+ - Comunidade 496: 1 nós
+ - Comunidade 497: 1 nós
+ - Comunidade 498: 1 nós
+ - Comunidade 499: 1 nós
+ - Comunidade 501: 1 nós
+ - Comunidade 502: 1 nós
+ - Comunidade 503: 1 nós
+ - Comunidade 504: 1 nós
+ - Comunidade 505: 1 nós
+ - Comunidade 507: 1 nós
+ - Comunidade 508: 1 nós
+ - Comunidade 509: 1 nós
+ - Comunidade 510: 1 nós
+ - Comunidade 511: 1 nós
+ - Comunidade 524: 1 nós
+ - Comunidade 519: 1 nós
+ - Comunidade 514: 1 nós
+ - Comunidade 515: 1 nós
+ - Comunidade 516: 1 nós
+ - Comunidade 518: 1 nós
+ - Comunidade 520: 1 nós
+ - Comunidade 529: 1 nós
+ - Comunidade 522: 1 nós
+ - Comunidade 523: 1 nós
+ - Comunidade 527: 1 nós
+ - Comunidade 530: 1 nós
+ - Comunidade 531: 1 nós
+ - Comunidade 161: 1 nós
+ - Comunidade 512: 1 nós
+ - Comunidade 525: 1 nós
+ - Comunidade 526: 1 nós
+ - Comunidade 402: 1 nós
+ - Comunidade 158: 1 nós
+ - Comunidade 287: 1 nós
+ - Comunidade 207: 1 nós
+ - Comunidade 289: 1 nós
+ - Comunidade 291: 1 nós
+ - Comunidade 39: 1 nós
+ - Comunidade 78: 1 nós
+ - Comunidade 424: 1 nós
+ - Comunidade 187: 1 nós
+ - Comunidade 196: 1 nós
+ - Comunidade 457: 1 nós
+ - Comunidade 338: 1 nós
+ - Comunidade 218: 1 nós
+ - Comunidade 91: 1 nós
+ - Comunidade 349: 1 nós
+ - Comunidade 224: 1 nós
+ - Comunidade 97: 1 nós
+ - Comunidade 356: 1 nós
+ - Comunidade 102: 1 nós
+ - Comunidade 107: 1 nós
+ - Comunidade 500: 1 nós
+ - Comunidade 121: 1 nós
+
+
+=== Comunidade 1 (ID real 203) — 29 nós ===
+ - deputado_178833
+ - deputado_73891
+ - deputado_134812
+ - deputado_204552
+ - deputado_204354
+ - deputado_204429
+ - deputado_204576
+ - deputado_204543
+ - deputado_204469
+ - deputado_171619
+ - deputado_74571
+ - deputado_74305
+ - deputado_90842
+ - deputado_204399
+ - deputado_178874
+ - deputado_204463
+ - deputado_159237
+ - deputado_207309
+ - deputado_211866
+ - deputado_81055
+ - deputado_74319
+ - deputado_122158
+ - deputado_178842
+ - deputado_141428
+ - deputado_205535
+ - deputado_213679
+ - deputado_178830
+ - deputado_212749
+ - deputado_74806
+
+=== Comunidade 2 (ID real 363) — 14 nós ===
+ - deputado_74399
+ - deputado_178901
+ - deputado_74141
+ - deputado_204384
+ - deputado_128760
+ - deputado_214477
+ - deputado_217480
+ - deputado_73463
+ - deputado_154919
+ - deputado_160517
+ - deputado_160542
+ - deputado_218879
+ - deputado_160621
+ - deputado_178888
+
+=== Comunidade 3 (ID real 452) — 10 nós ===
+ - deputado_74253
+ - deputado_141515
+ - deputado_216544
+ - deputado_178862
+ - deputado_74254
+ - deputado_217330
+ - deputado_178935
+ - deputado_217036
+ - deputado_141478
+ - deputado_191945
+
+=== Comunidade 4 (ID real 460) — 6 nós ===
+ - deputado_74212
+ - deputado_212625
+ - deputado_178868
+ - deputado_216313
+ - deputado_122195
+ - deputado_216545
+
+=== Comunidade 5 (ID real 517) — 4 nós ===
+ - deputado_178984
+ - deputado_218086
+ - deputado_218245
+ - deputado_118594
+
+=== Comunidade 6 (ID real 532) — 3 nós ===
+ - deputado_74749
+ - deputado_214694
+ - deputado_214445
+
+=== Comunidade 7 (ID real 513) — 2 nós ===
+ - deputado_204433
+ - deputado_122466
+
+=== Comunidade 8 (ID real 312) — 2 nós ===
+ - deputado_141552
+ - deputado_178943
+
+=== Comunidade 9 (ID real 506) — 2 nós ===
+ - deputado_204486
+ - deputado_213854
+
+=== Comunidade 10 (ID real 446) — 2 nós ===
+ - deputado_215045
+ - deputado_218741
+
+=== Comunidade 11 (ID real 0) — 1 nós ===
+ - deputado_204554
+
+=== Comunidade 12 (ID real 1) — 1 nós ===
+ - deputado_204521
+
+=== Comunidade 13 (ID real 2) — 1 nós ===
+ - deputado_204560
+
+=== Comunidade 14 (ID real 3) — 1 nós ===
+ - deputado_204528
+
+=== Comunidade 15 (ID real 4) — 1 nós ===
+ - deputado_121948
+
+=== Comunidade 16 (ID real 5) — 1 nós ===
+ - deputado_160508
+
+=== Comunidade 17 (ID real 6) — 1 nós ===
+ - deputado_204495
+
+=== Comunidade 18 (ID real 7) — 1 nós ===
+ - deputado_160559
+
+=== Comunidade 19 (ID real 8) — 1 nós ===
+ - deputado_204413
+
+=== Comunidade 20 (ID real 9) — 1 nós ===
+ - deputado_204545
+
+=== Comunidade 21 (ID real 10) — 1 nós ===
+ - deputado_204501
+
+=== Comunidade 22 (ID real 11) — 1 nós ===
+ - deputado_160511
+
+=== Comunidade 23 (ID real 12) — 1 nós ===
+ - deputado_204571
+
+=== Comunidade 24 (ID real 13) — 1 nós ===
+ - deputado_204544
+
+=== Comunidade 25 (ID real 14) — 1 nós ===
+ - deputado_160545
+
+=== Comunidade 26 (ID real 15) — 1 nós ===
+ - deputado_204503
+
+=== Comunidade 27 (ID real 17) — 1 nós ===
+ - deputado_74057
+
+=== Comunidade 28 (ID real 18) — 1 nós ===
+ - deputado_204400
+
+=== Comunidade 29 (ID real 19) — 1 nós ===
+ - deputado_178937
+
+=== Comunidade 30 (ID real 20) — 1 nós ===
+ - deputado_204356
+
+=== Comunidade 31 (ID real 21) — 1 nós ===
+ - deputado_178831
+
+=== Comunidade 32 (ID real 22) — 1 nós ===
+ - deputado_74471
+
+=== Comunidade 33 (ID real 23) — 1 nós ===
+ - deputado_204515
+
+=== Comunidade 34 (ID real 24) — 1 nós ===
+ - deputado_160553
+
+=== Comunidade 35 (ID real 25) — 1 nós ===
+ - deputado_204414
+
+=== Comunidade 36 (ID real 26) — 1 nós ===
+ - deputado_74459
+
+=== Comunidade 37 (ID real 27) — 1 nós ===
+ - deputado_160665
+
+=== Comunidade 38 (ID real 28) — 1 nós ===
+ - deputado_204509
+
+=== Comunidade 39 (ID real 29) — 1 nós ===
+ - deputado_69871
+
+=== Comunidade 40 (ID real 30) — 1 nós ===
+ - deputado_73701
+
+=== Comunidade 41 (ID real 31) — 1 nós ===
+ - deputado_109429
+
+=== Comunidade 42 (ID real 32) — 1 nós ===
+ - deputado_141335
+
+=== Comunidade 43 (ID real 33) — 1 nós ===
+ - deputado_204358
+
+=== Comunidade 44 (ID real 34) — 1 nós ===
+ - deputado_207176
+
+=== Comunidade 45 (ID real 35) — 1 nós ===
+ - deputado_204374
+
+=== Comunidade 46 (ID real 36) — 1 nós ===
+ - deputado_141513
+
+=== Comunidade 47 (ID real 37) — 1 nós ===
+ - deputado_204561
+
+=== Comunidade 48 (ID real 38) — 1 nós ===
+ - deputado_204397
+
+=== Comunidade 49 (ID real 324) — 1 nós ===
+ - deputado_74052
+
+=== Comunidade 50 (ID real 40) — 1 nós ===
+ - deputado_204352
+
+=== Comunidade 51 (ID real 41) — 1 nós ===
+ - deputado_204572
+
+=== Comunidade 52 (ID real 42) — 1 nós ===
+ - deputado_178829
+
+=== Comunidade 53 (ID real 43) — 1 nós ===
+ - deputado_204531
+
+=== Comunidade 54 (ID real 44) — 1 nós ===
+ - deputado_204487
+
+=== Comunidade 55 (ID real 45) — 1 nós ===
+ - deputado_204361
+
+=== Comunidade 56 (ID real 46) — 1 nós ===
+ - deputado_178993
+
+=== Comunidade 57 (ID real 47) — 1 nós ===
+ - deputado_204460
+
+=== Comunidade 58 (ID real 48) — 1 nós ===
+ - deputado_74262
+
+=== Comunidade 59 (ID real 49) — 1 nós ===
+ - deputado_204426
+
+=== Comunidade 60 (ID real 50) — 1 nós ===
+ - deputado_141398
+
+=== Comunidade 61 (ID real 51) — 1 nós ===
+ - deputado_164360
+
+=== Comunidade 62 (ID real 52) — 1 nós ===
+ - deputado_204369
+
+=== Comunidade 63 (ID real 53) — 1 nós ===
+ - deputado_204499
+
+=== Comunidade 64 (ID real 54) — 1 nós ===
+ - deputado_204370
+
+=== Comunidade 65 (ID real 55) — 1 nós ===
+ - deputado_178876
+
+=== Comunidade 66 (ID real 56) — 1 nós ===
+ - deputado_204488
+
+=== Comunidade 67 (ID real 57) — 1 nós ===
+ - deputado_204496
+
+=== Comunidade 68 (ID real 58) — 1 nós ===
+ - deputado_205476
+
+=== Comunidade 69 (ID real 59) — 1 nós ===
+ - deputado_204490
+
+=== Comunidade 70 (ID real 60) — 1 nós ===
+ - deputado_141439
+
+=== Comunidade 71 (ID real 61) — 1 nós ===
+ - deputado_204476
+
+=== Comunidade 72 (ID real 62) — 1 nós ===
+ - deputado_204462
+
+=== Comunidade 73 (ID real 63) — 1 nós ===
+ - deputado_204440
+
+=== Comunidade 74 (ID real 64) — 1 nós ===
+ - deputado_178939
+
+=== Comunidade 75 (ID real 65) — 1 nós ===
+ - deputado_141408
+
+=== Comunidade 76 (ID real 66) — 1 nós ===
+ - deputado_204376
+
+=== Comunidade 77 (ID real 67) — 1 nós ===
+ - deputado_204378
+
+=== Comunidade 78 (ID real 68) — 1 nós ===
+ - deputado_204514
+
+=== Comunidade 79 (ID real 69) — 1 nós ===
+ - deputado_135054
+
+=== Comunidade 80 (ID real 70) — 1 nós ===
+ - deputado_141411
+
+=== Comunidade 81 (ID real 71) — 1 nós ===
+ - deputado_74467
+
+=== Comunidade 82 (ID real 72) — 1 nós ===
+ - deputado_178916
+
+=== Comunidade 83 (ID real 73) — 1 nós ===
+ - deputado_204367
+
+=== Comunidade 84 (ID real 74) — 1 nós ===
+ - deputado_204454
+
+=== Comunidade 85 (ID real 75) — 1 nós ===
+ - deputado_204409
+
+=== Comunidade 86 (ID real 76) — 1 nós ===
+ - deputado_160528
+
+=== Comunidade 87 (ID real 77) — 1 nós ===
+ - deputado_116379
+
+=== Comunidade 88 (ID real 79) — 1 nós ===
+ - deputado_205548
+
+=== Comunidade 89 (ID real 80) — 1 nós ===
+ - deputado_204511
+
+=== Comunidade 90 (ID real 81) — 1 nós ===
+ - deputado_204451
+
+=== Comunidade 91 (ID real 82) — 1 nós ===
+ - deputado_178908
+
+=== Comunidade 92 (ID real 83) — 1 nós ===
+ - deputado_204512
+
+=== Comunidade 93 (ID real 84) — 1 nós ===
+ - deputado_204569
+
+=== Comunidade 94 (ID real 85) — 1 nós ===
+ - deputado_204542
+
+=== Comunidade 95 (ID real 86) — 1 nós ===
+ - deputado_160588
+
+=== Comunidade 96 (ID real 87) — 1 nós ===
+ - deputado_178929
+
+=== Comunidade 97 (ID real 88) — 1 nós ===
+ - deputado_160599
+
+=== Comunidade 98 (ID real 89) — 1 nós ===
+ - deputado_160758
+
+=== Comunidade 99 (ID real 90) — 1 nós ===
+ - deputado_204450
+
+=== Comunidade 100 (ID real 528) — 1 nós ===
+ - deputado_204439
+
+=== Comunidade 101 (ID real 92) — 1 nós ===
+ - deputado_204351
+
+=== Comunidade 102 (ID real 93) — 1 nós ===
+ - deputado_204412
+
+=== Comunidade 103 (ID real 94) — 1 nós ===
+ - deputado_81297
+
+=== Comunidade 104 (ID real 95) — 1 nós ===
+ - deputado_204434
+
+=== Comunidade 105 (ID real 96) — 1 nós ===
+ - deputado_141417
+
+=== Comunidade 106 (ID real 98) — 1 nós ===
+ - deputado_204421
+
+=== Comunidade 107 (ID real 99) — 1 nós ===
+ - deputado_74655
+
+=== Comunidade 108 (ID real 100) — 1 nós ===
+ - deputado_204541
+
+=== Comunidade 109 (ID real 101) — 1 nós ===
+ - deputado_92346
+
+=== Comunidade 110 (ID real 103) — 1 nós ===
+ - deputado_204500
+
+=== Comunidade 111 (ID real 104) — 1 nós ===
+ - deputado_141422
+
+=== Comunidade 112 (ID real 105) — 1 nós ===
+ - deputado_74075
+
+=== Comunidade 113 (ID real 106) — 1 nós ===
+ - deputado_204364
+
+=== Comunidade 114 (ID real 418) — 1 nós ===
+ - deputado_204389
+
+=== Comunidade 115 (ID real 108) — 1 nós ===
+ - deputado_198783
+
+=== Comunidade 116 (ID real 109) — 1 nós ===
+ - deputado_161550
+
+=== Comunidade 117 (ID real 110) — 1 nós ===
+ - deputado_132504
+
+=== Comunidade 118 (ID real 111) — 1 nós ===
+ - deputado_204537
+
+=== Comunidade 119 (ID real 112) — 1 nós ===
+ - deputado_160640
+
+=== Comunidade 120 (ID real 113) — 1 nós ===
+ - deputado_204482
+
+=== Comunidade 121 (ID real 114) — 1 nós ===
+ - deputado_178871
+
+=== Comunidade 122 (ID real 115) — 1 nós ===
+ - deputado_68720
+
+=== Comunidade 123 (ID real 116) — 1 nós ===
+ - deputado_178969
+
+=== Comunidade 124 (ID real 117) — 1 nós ===
+ - deputado_141427
+
+=== Comunidade 125 (ID real 118) — 1 nós ===
+ - deputado_160587
+
+=== Comunidade 126 (ID real 119) — 1 nós ===
+ - deputado_204477
+
+=== Comunidade 127 (ID real 120) — 1 nós ===
+ - deputado_72442
+
+=== Comunidade 128 (ID real 126) — 1 nós ===
+ - deputado_204398
+
+=== Comunidade 129 (ID real 122) — 1 nós ===
+ - deputado_204371
+
+=== Comunidade 130 (ID real 123) — 1 nós ===
+ - deputado_160666
+
+=== Comunidade 131 (ID real 124) — 1 nós ===
+ - deputado_141431
+
+=== Comunidade 132 (ID real 125) — 1 nós ===
+ - deputado_204411
+
+=== Comunidade 133 (ID real 127) — 1 nós ===
+ - deputado_160598
+
+=== Comunidade 134 (ID real 128) — 1 nós ===
+ - deputado_191923
+
+=== Comunidade 135 (ID real 129) — 1 nós ===
+ - deputado_204392
+
+=== Comunidade 136 (ID real 130) — 1 nós ===
+ - deputado_204510
+
+=== Comunidade 137 (ID real 131) — 1 nós ===
+ - deputado_204494
+
+=== Comunidade 138 (ID real 132) — 1 nós ===
+ - deputado_115746
+
+=== Comunidade 139 (ID real 133) — 1 nós ===
+ - deputado_178966
+
+=== Comunidade 140 (ID real 134) — 1 nós ===
+ - deputado_204575
+
+=== Comunidade 141 (ID real 135) — 1 nós ===
+ - deputado_74270
+
+=== Comunidade 142 (ID real 136) — 1 nós ===
+ - deputado_152605
+
+=== Comunidade 143 (ID real 137) — 1 nós ===
+ - deputado_204419
+
+=== Comunidade 144 (ID real 138) — 1 nós ===
+ - deputado_107283
+
+=== Comunidade 145 (ID real 139) — 1 nós ===
+ - deputado_74419
+
+=== Comunidade 146 (ID real 140) — 1 nós ===
+ - deputado_198197
+
+=== Comunidade 147 (ID real 141) — 1 nós ===
+ - deputado_204513
+
+=== Comunidade 148 (ID real 142) — 1 nós ===
+ - deputado_204442
+
+=== Comunidade 149 (ID real 143) — 1 nós ===
+ - deputado_204456
+
+=== Comunidade 150 (ID real 144) — 1 nós ===
+ - deputado_178909
+
+=== Comunidade 151 (ID real 145) — 1 nós ===
+ - deputado_204444
+
+=== Comunidade 152 (ID real 146) — 1 nós ===
+ - deputado_73482
+
+=== Comunidade 153 (ID real 147) — 1 nós ===
+ - deputado_204539
+
+=== Comunidade 154 (ID real 148) — 1 nós ===
+ - deputado_73772
+
+=== Comunidade 155 (ID real 149) — 1 nós ===
+ - deputado_178884
+
+=== Comunidade 156 (ID real 150) — 1 nós ===
+ - deputado_204533
+
+=== Comunidade 157 (ID real 151) — 1 nós ===
+ - deputado_204564
+
+=== Comunidade 158 (ID real 152) — 1 nós ===
+ - deputado_204508
+
+=== Comunidade 159 (ID real 153) — 1 nós ===
+ - deputado_67138
+
+=== Comunidade 160 (ID real 154) — 1 nós ===
+ - deputado_204436
+
+=== Comunidade 161 (ID real 155) — 1 nós ===
+ - deputado_73531
+
+=== Comunidade 162 (ID real 156) — 1 nós ===
+ - deputado_74273
+
+=== Comunidade 163 (ID real 157) — 1 nós ===
+ - deputado_178970
+
+=== Comunidade 164 (ID real 159) — 1 nós ===
+ - deputado_141459
+
+=== Comunidade 165 (ID real 160) — 1 nós ===
+ - deputado_112437
+
+=== Comunidade 166 (ID real 162) — 1 nós ===
+ - deputado_178910
+
+=== Comunidade 167 (ID real 163) — 1 nós ===
+ - deputado_204468
+
+=== Comunidade 168 (ID real 164) — 1 nós ===
+ - deputado_205550
+
+=== Comunidade 169 (ID real 165) — 1 nós ===
+ - deputado_178857
+
+=== Comunidade 170 (ID real 166) — 1 nós ===
+ - deputado_204386
+
+=== Comunidade 171 (ID real 167) — 1 nós ===
+ - deputado_204472
+
+=== Comunidade 172 (ID real 168) — 1 nós ===
+ - deputado_204391
+
+=== Comunidade 173 (ID real 169) — 1 nós ===
+ - deputado_160619
+
+=== Comunidade 174 (ID real 170) — 1 nós ===
+ - deputado_74079
+
+=== Comunidade 175 (ID real 171) — 1 nós ===
+ - deputado_204555
+
+=== Comunidade 176 (ID real 172) — 1 nós ===
+ - deputado_209189
+
+=== Comunidade 177 (ID real 173) — 1 nós ===
+ - deputado_204474
+
+=== Comunidade 178 (ID real 174) — 1 nós ===
+ - deputado_204420
+
+=== Comunidade 179 (ID real 175) — 1 nós ===
+ - deputado_74317
+
+=== Comunidade 180 (ID real 176) — 1 nós ===
+ - deputado_204372
+
+=== Comunidade 181 (ID real 177) — 1 nós ===
+ - deputado_73586
+
+=== Comunidade 182 (ID real 178) — 1 nós ===
+ - deputado_204457
+
+=== Comunidade 183 (ID real 179) — 1 nós ===
+ - deputado_204520
+
+=== Comunidade 184 (ID real 180) — 1 nós ===
+ - deputado_204550
+
+=== Comunidade 185 (ID real 181) — 1 nós ===
+ - deputado_178886
+
+=== Comunidade 186 (ID real 182) — 1 nós ===
+ - deputado_204536
+
+=== Comunidade 187 (ID real 183) — 1 nós ===
+ - deputado_160534
+
+=== Comunidade 188 (ID real 184) — 1 nós ===
+ - deputado_178832
+
+=== Comunidade 189 (ID real 185) — 1 nós ===
+ - deputado_204547
+
+=== Comunidade 190 (ID real 186) — 1 nós ===
+ - deputado_74156
+
+=== Comunidade 191 (ID real 359) — 1 nós ===
+ - deputado_74299
+
+=== Comunidade 192 (ID real 188) — 1 nós ===
+ - deputado_92102
+
+=== Comunidade 193 (ID real 189) — 1 nós ===
+ - deputado_139285
+
+=== Comunidade 194 (ID real 190) — 1 nós ===
+ - deputado_74585
+
+=== Comunidade 195 (ID real 191) — 1 nós ===
+ - deputado_204405
+
+=== Comunidade 196 (ID real 192) — 1 nós ===
+ - deputado_196358
+
+=== Comunidade 197 (ID real 193) — 1 nós ===
+ - deputado_178931
+
+=== Comunidade 198 (ID real 194) — 1 nós ===
+ - deputado_204381
+
+=== Comunidade 199 (ID real 195) — 1 nós ===
+ - deputado_204485
+
+=== Comunidade 200 (ID real 197) — 1 nós ===
+ - deputado_204455
+
+=== Comunidade 201 (ID real 198) — 1 nós ===
+ - deputado_162332
+
+=== Comunidade 202 (ID real 199) — 1 nós ===
+ - deputado_204526
+
+=== Comunidade 203 (ID real 200) — 1 nós ===
+ - deputado_74784
+
+=== Comunidade 204 (ID real 201) — 1 nós ===
+ - deputado_204418
+
+=== Comunidade 205 (ID real 202) — 1 nós ===
+ - deputado_166402
+
+=== Comunidade 206 (ID real 204) — 1 nós ===
+ - deputado_204471
+
+=== Comunidade 207 (ID real 205) — 1 nós ===
+ - deputado_156190
+
+=== Comunidade 208 (ID real 206) — 1 nós ===
+ - deputado_205863
+
+=== Comunidade 209 (ID real 208) — 1 nós ===
+ - deputado_76874
+
+=== Comunidade 210 (ID real 209) — 1 nós ===
+ - deputado_133810
+
+=== Comunidade 211 (ID real 210) — 1 nós ===
+ - deputado_204558
+
+=== Comunidade 212 (ID real 211) — 1 nós ===
+ - deputado_204556
+
+=== Comunidade 213 (ID real 212) — 1 nós ===
+ - deputado_178983
+
+=== Comunidade 214 (ID real 213) — 1 nós ===
+ - deputado_179001
+
+=== Comunidade 215 (ID real 214) — 1 nós ===
+ - deputado_204452
+
+=== Comunidade 216 (ID real 215) — 1 nós ===
+ - deputado_150418
+
+=== Comunidade 217 (ID real 216) — 1 nós ===
+ - deputado_204522
+
+=== Comunidade 218 (ID real 217) — 1 nós ===
+ - deputado_204431
+
+=== Comunidade 219 (ID real 219) — 1 nós ===
+ - deputado_74398
+
+=== Comunidade 220 (ID real 220) — 1 nós ===
+ - deputado_204540
+
+=== Comunidade 221 (ID real 221) — 1 nós ===
+ - deputado_178956
+
+=== Comunidade 222 (ID real 222) — 1 nós ===
+ - deputado_204432
+
+=== Comunidade 223 (ID real 223) — 1 nós ===
+ - deputado_178858
+
+=== Comunidade 224 (ID real 225) — 1 nós ===
+ - deputado_141508
+
+=== Comunidade 225 (ID real 226) — 1 nós ===
+ - deputado_178985
+
+=== Comunidade 226 (ID real 227) — 1 nós ===
+ - deputado_178895
+
+=== Comunidade 227 (ID real 228) — 1 nós ===
+ - deputado_204449
+
+=== Comunidade 228 (ID real 230) — 1 nós ===
+ - deputado_204415
+
+=== Comunidade 229 (ID real 231) — 1 nós ===
+ - deputado_146307
+
+=== Comunidade 230 (ID real 232) — 1 nós ===
+ - deputado_204479
+
+=== Comunidade 231 (ID real 233) — 1 nós ===
+ - deputado_66179
+
+=== Comunidade 232 (ID real 234) — 1 nós ===
+ - deputado_204498
+
+=== Comunidade 233 (ID real 235) — 1 nós ===
+ - deputado_178987
+
+=== Comunidade 234 (ID real 236) — 1 nós ===
+ - deputado_204363
+
+=== Comunidade 235 (ID real 237) — 1 nós ===
+ - deputado_204422
+
+=== Comunidade 236 (ID real 238) — 1 nós ===
+ - deputado_204441
+
+=== Comunidade 237 (ID real 239) — 1 nós ===
+ - deputado_204475
+
+=== Comunidade 238 (ID real 240) — 1 nós ===
+ - deputado_204573
+
+=== Comunidade 239 (ID real 241) — 1 nós ===
+ - deputado_160556
+
+=== Comunidade 240 (ID real 242) — 1 nós ===
+ - deputado_204553
+
+=== Comunidade 241 (ID real 243) — 1 nós ===
+ - deputado_74160
+
+=== Comunidade 242 (ID real 244) — 1 nós ===
+ - deputado_204377
+
+=== Comunidade 243 (ID real 245) — 1 nós ===
+ - deputado_171617
+
+=== Comunidade 244 (ID real 246) — 1 nós ===
+ - deputado_204538
+
+=== Comunidade 245 (ID real 247) — 1 nós ===
+ - deputado_193726
+
+=== Comunidade 246 (ID real 248) — 1 nós ===
+ - deputado_160558
+
+=== Comunidade 247 (ID real 249) — 1 nós ===
+ - deputado_204461
+
+=== Comunidade 248 (ID real 250) — 1 nós ===
+ - deputado_204492
+
+=== Comunidade 249 (ID real 251) — 1 nós ===
+ - deputado_90201
+
+=== Comunidade 250 (ID real 252) — 1 nós ===
+ - deputado_122974
+
+=== Comunidade 251 (ID real 253) — 1 nós ===
+ - deputado_160604
+
+=== Comunidade 252 (ID real 254) — 1 nós ===
+ - deputado_204406
+
+=== Comunidade 253 (ID real 255) — 1 nós ===
+ - deputado_204524
+
+=== Comunidade 254 (ID real 256) — 1 nós ===
+ - deputado_204529
+
+=== Comunidade 255 (ID real 257) — 1 nós ===
+ - deputado_204390
+
+=== Comunidade 256 (ID real 258) — 1 nós ===
+ - deputado_204383
+
+=== Comunidade 257 (ID real 259) — 1 nós ===
+ - deputado_204446
+
+=== Comunidade 258 (ID real 260) — 1 nós ===
+ - deputado_204565
+
+=== Comunidade 259 (ID real 261) — 1 nós ===
+ - deputado_160639
+
+=== Comunidade 260 (ID real 262) — 1 nós ===
+ - deputado_204467
+
+=== Comunidade 261 (ID real 263) — 1 nós ===
+ - deputado_178951
+
+=== Comunidade 262 (ID real 264) — 1 nós ===
+ - deputado_204567
+
+=== Comunidade 263 (ID real 265) — 1 nós ===
+ - deputado_141523
+
+=== Comunidade 264 (ID real 266) — 1 nós ===
+ - deputado_205865
+
+=== Comunidade 265 (ID real 267) — 1 nós ===
+ - deputado_178925
+
+=== Comunidade 266 (ID real 268) — 1 nós ===
+ - deputado_204362
+
+=== Comunidade 267 (ID real 269) — 1 nós ===
+ - deputado_160655
+
+=== Comunidade 268 (ID real 270) — 1 nós ===
+ - deputado_178920
+
+=== Comunidade 269 (ID real 271) — 1 nós ===
+ - deputado_204489
+
+=== Comunidade 270 (ID real 272) — 1 nós ===
+ - deputado_152610
+
+=== Comunidade 271 (ID real 273) — 1 nós ===
+ - deputado_160653
+
+=== Comunidade 272 (ID real 275) — 1 nós ===
+ - deputado_204530
+
+=== Comunidade 273 (ID real 276) — 1 nós ===
+ - deputado_204366
+
+=== Comunidade 274 (ID real 277) — 1 nós ===
+ - deputado_141531
+
+=== Comunidade 275 (ID real 278) — 1 nós ===
+ - deputado_204480
+
+=== Comunidade 276 (ID real 279) — 1 nós ===
+ - deputado_178930
+
+=== Comunidade 277 (ID real 280) — 1 nós ===
+ - deputado_178861
+
+=== Comunidade 278 (ID real 281) — 1 nós ===
+ - deputado_204525
+
+=== Comunidade 279 (ID real 282) — 1 nós ===
+ - deputado_204357
+
+=== Comunidade 280 (ID real 283) — 1 nós ===
+ - deputado_73604
+
+=== Comunidade 281 (ID real 284) — 1 nós ===
+ - deputado_160635
+
+=== Comunidade 282 (ID real 285) — 1 nós ===
+ - deputado_178990
+
+=== Comunidade 283 (ID real 286) — 1 nós ===
+ - deputado_204416
+
+=== Comunidade 284 (ID real 288) — 1 nós ===
+ - deputado_204387
+
+=== Comunidade 285 (ID real 290) — 1 nós ===
+ - deputado_204438
+
+=== Comunidade 286 (ID real 292) — 1 nós ===
+ - deputado_204437
+
+=== Comunidade 287 (ID real 293) — 1 nós ===
+ - deputado_178961
+
+=== Comunidade 288 (ID real 294) — 1 nós ===
+ - deputado_204557
+
+=== Comunidade 289 (ID real 295) — 1 nós ===
+ - deputado_204360
+
+=== Comunidade 290 (ID real 296) — 1 nós ===
+ - deputado_178946
+
+=== Comunidade 291 (ID real 297) — 1 nós ===
+ - deputado_178947
+
+=== Comunidade 292 (ID real 298) — 1 nós ===
+ - deputado_92776
+
+=== Comunidade 293 (ID real 299) — 1 nós ===
+ - deputado_177282
+
+=== Comunidade 294 (ID real 300) — 1 nós ===
+ - deputado_204534
+
+=== Comunidade 295 (ID real 301) — 1 nós ===
+ - deputado_178922
+
+=== Comunidade 296 (ID real 302) — 1 nós ===
+ - deputado_204464
+
+=== Comunidade 297 (ID real 303) — 1 nós ===
+ - deputado_206231
+
+=== Comunidade 298 (ID real 304) — 1 nós ===
+ - deputado_204466
+
+=== Comunidade 299 (ID real 305) — 1 nós ===
+ - deputado_204519
+
+=== Comunidade 300 (ID real 306) — 1 nós ===
+ - deputado_160976
+
+=== Comunidade 301 (ID real 307) — 1 nós ===
+ - deputado_197438
+
+=== Comunidade 302 (ID real 308) — 1 nós ===
+ - deputado_157130
+
+=== Comunidade 303 (ID real 309) — 1 nós ===
+ - deputado_178863
+
+=== Comunidade 304 (ID real 310) — 1 nós ===
+ - deputado_195866
+
+=== Comunidade 305 (ID real 311) — 1 nós ===
+ - deputado_160610
+
+=== Comunidade 306 (ID real 313) — 1 nós ===
+ - deputado_74376
+
+=== Comunidade 307 (ID real 314) — 1 nós ===
+ - deputado_204505
+
+=== Comunidade 308 (ID real 315) — 1 nós ===
+ - deputado_204396
+
+=== Comunidade 309 (ID real 316) — 1 nós ===
+ - deputado_74283
+
+=== Comunidade 310 (ID real 317) — 1 nós ===
+ - deputado_204483
+
+=== Comunidade 311 (ID real 318) — 1 nós ===
+ - deputado_141555
+
+=== Comunidade 312 (ID real 319) — 1 nós ===
+ - deputado_204532
+
+=== Comunidade 313 (ID real 320) — 1 nós ===
+ - deputado_178992
+
+=== Comunidade 314 (ID real 321) — 1 nós ===
+ - deputado_178952
+
+=== Comunidade 315 (ID real 322) — 1 nós ===
+ - deputado_160518
+
+=== Comunidade 316 (ID real 323) — 1 nós ===
+ - deputado_74044
+
+=== Comunidade 317 (ID real 325) — 1 nós ===
+ - deputado_74439
+
+=== Comunidade 318 (ID real 326) — 1 nós ===
+ - deputado_160632
+
+=== Comunidade 319 (ID real 327) — 1 nós ===
+ - deputado_204517
+
+=== Comunidade 320 (ID real 328) — 1 nós ===
+ - deputado_136811
+
+=== Comunidade 321 (ID real 329) — 1 nós ===
+ - deputado_178835
+
+=== Comunidade 322 (ID real 330) — 1 nós ===
+ - deputado_204549
+
+=== Comunidade 323 (ID real 331) — 1 nós ===
+ - deputado_178972
+
+=== Comunidade 324 (ID real 332) — 1 nós ===
+ - deputado_204516
+
+=== Comunidade 325 (ID real 333) — 1 nós ===
+ - deputado_178927
+
+=== Comunidade 326 (ID real 334) — 1 nós ===
+ - deputado_204423
+
+=== Comunidade 327 (ID real 335) — 1 nós ===
+ - deputado_133439
+
+=== Comunidade 328 (ID real 336) — 1 nós ===
+ - deputado_73696
+
+=== Comunidade 329 (ID real 337) — 1 nós ===
+ - deputado_73433
+
+=== Comunidade 330 (ID real 339) — 1 nós ===
+ - deputado_204388
+
+=== Comunidade 331 (ID real 340) — 1 nós ===
+ - deputado_160538
+
+=== Comunidade 332 (ID real 341) — 1 nós ===
+ - deputado_93083
+
+=== Comunidade 333 (ID real 342) — 1 nós ===
+ - deputado_178962
+
+=== Comunidade 334 (ID real 343) — 1 nós ===
+ - deputado_204380
+
+=== Comunidade 335 (ID real 344) — 1 nós ===
+ - deputado_73441
+
+=== Comunidade 336 (ID real 345) — 1 nós ===
+ - deputado_204504
+
+=== Comunidade 337 (ID real 346) — 1 nós ===
+ - deputado_178928
+
+=== Comunidade 338 (ID real 347) — 1 nós ===
+ - deputado_204355
+
+=== Comunidade 339 (ID real 348) — 1 nós ===
+ - deputado_204459
+
+=== Comunidade 340 (ID real 229) — 1 nós ===
+ - deputado_160552
+
+=== Comunidade 341 (ID real 350) — 1 nós ===
+ - deputado_164359
+
+=== Comunidade 342 (ID real 351) — 1 nós ===
+ - deputado_204481
+
+=== Comunidade 343 (ID real 352) — 1 nós ===
+ - deputado_178994
+
+=== Comunidade 344 (ID real 353) — 1 nós ===
+ - deputado_141421
+
+=== Comunidade 345 (ID real 354) — 1 nós ===
+ - deputado_160532
+
+=== Comunidade 346 (ID real 355) — 1 nós ===
+ - deputado_178854
+
+=== Comunidade 347 (ID real 357) — 1 nós ===
+ - deputado_160575
+
+=== Comunidade 348 (ID real 358) — 1 nós ===
+ - deputado_178953
+
+=== Comunidade 349 (ID real 360) — 1 nós ===
+ - deputado_204407
+
+=== Comunidade 350 (ID real 361) — 1 nós ===
+ - deputado_92699
+
+=== Comunidade 351 (ID real 362) — 1 nós ===
+ - deputado_204427
+
+=== Comunidade 352 (ID real 274) — 1 nós ===
+ - deputado_204447
+
+=== Comunidade 353 (ID real 364) — 1 nós ===
+ - deputado_204393
+
+=== Comunidade 354 (ID real 365) — 1 nós ===
+ - deputado_74200
+
+=== Comunidade 355 (ID real 366) — 1 nós ===
+ - deputado_160669
+
+=== Comunidade 356 (ID real 367) — 1 nós ===
+ - deputado_204473
+
+=== Comunidade 357 (ID real 368) — 1 nós ===
+ - deputado_204484
+
+=== Comunidade 358 (ID real 369) — 1 nós ===
+ - deputado_204394
+
+=== Comunidade 359 (ID real 370) — 1 nós ===
+ - deputado_74383
+
+=== Comunidade 360 (ID real 371) — 1 nós ===
+ - deputado_204491
+
+=== Comunidade 361 (ID real 372) — 1 nós ===
+ - deputado_204365
+
+=== Comunidade 362 (ID real 373) — 1 nós ===
+ - deputado_160673
+
+=== Comunidade 363 (ID real 374) — 1 nós ===
+ - deputado_178996
+
+=== Comunidade 364 (ID real 375) — 1 nós ===
+ - deputado_73460
+
+=== Comunidade 365 (ID real 376) — 1 nós ===
+ - deputado_204465
+
+=== Comunidade 366 (ID real 377) — 1 nós ===
+ - deputado_204548
+
+=== Comunidade 367 (ID real 378) — 1 nós ===
+ - deputado_178873
+
+=== Comunidade 368 (ID real 379) — 1 nós ===
+ - deputado_204373
+
+=== Comunidade 369 (ID real 380) — 1 nós ===
+ - deputado_178981
+
+=== Comunidade 370 (ID real 381) — 1 nós ===
+ - deputado_141450
+
+=== Comunidade 371 (ID real 382) — 1 nós ===
+ - deputado_160674
+
+=== Comunidade 372 (ID real 383) — 1 nós ===
+ - deputado_74848
+
+=== Comunidade 373 (ID real 384) — 1 nós ===
+ - deputado_160570
+
+=== Comunidade 374 (ID real 385) — 1 nós ===
+ - deputado_178839
+
+=== Comunidade 375 (ID real 386) — 1 nós ===
+ - deputado_204435
+
+=== Comunidade 376 (ID real 387) — 1 nós ===
+ - deputado_160531
+
+=== Comunidade 377 (ID real 388) — 1 nós ===
+ - deputado_74366
+
+=== Comunidade 378 (ID real 389) — 1 nós ===
+ - deputado_141458
+
+=== Comunidade 379 (ID real 390) — 1 nós ===
+ - deputado_141470
+
+=== Comunidade 380 (ID real 391) — 1 nós ===
+ - deputado_74554
+
+=== Comunidade 381 (ID real 392) — 1 nós ===
+ - deputado_204497
+
+=== Comunidade 382 (ID real 393) — 1 nós ===
+ - deputado_151208
+
+=== Comunidade 383 (ID real 394) — 1 nós ===
+ - deputado_98057
+
+=== Comunidade 384 (ID real 395) — 1 nós ===
+ - deputado_204359
+
+=== Comunidade 385 (ID real 396) — 1 nós ===
+ - deputado_204523
+
+=== Comunidade 386 (ID real 397) — 1 nós ===
+ - deputado_204404
+
+=== Comunidade 387 (ID real 398) — 1 nós ===
+ - deputado_178954
+
+=== Comunidade 388 (ID real 399) — 1 nós ===
+ - deputado_204410
+
+=== Comunidade 389 (ID real 400) — 1 nós ===
+ - deputado_204448
+
+=== Comunidade 390 (ID real 401) — 1 nós ===
+ - deputado_146788
+
+=== Comunidade 391 (ID real 403) — 1 nós ===
+ - deputado_160535
+
+=== Comunidade 392 (ID real 404) — 1 nós ===
+ - deputado_204506
+
+=== Comunidade 393 (ID real 405) — 1 nós ===
+ - deputado_204430
+
+=== Comunidade 394 (ID real 406) — 1 nós ===
+ - deputado_204428
+
+=== Comunidade 395 (ID real 407) — 1 nós ===
+ - deputado_74158
+
+=== Comunidade 396 (ID real 408) — 1 nós ===
+ - deputado_204403
+
+=== Comunidade 397 (ID real 409) — 1 nós ===
+ - deputado_204566
+
+=== Comunidade 398 (ID real 410) — 1 nós ===
+ - deputado_75431
+
+=== Comunidade 399 (ID real 411) — 1 nós ===
+ - deputado_154178
+
+=== Comunidade 400 (ID real 412) — 1 nós ===
+ - deputado_204453
+
+=== Comunidade 401 (ID real 413) — 1 nós ===
+ - deputado_178896
+
+=== Comunidade 402 (ID real 414) — 1 nós ===
+ - deputado_74352
+
+=== Comunidade 403 (ID real 415) — 1 nós ===
+ - deputado_178986
+
+=== Comunidade 404 (ID real 416) — 1 nós ===
+ - deputado_194260
+
+=== Comunidade 405 (ID real 417) — 1 nós ===
+ - deputado_74159
+
+=== Comunidade 406 (ID real 419) — 1 nós ===
+ - deputado_204570
+
+=== Comunidade 407 (ID real 420) — 1 nós ===
+ - deputado_141518
+
+=== Comunidade 408 (ID real 421) — 1 nós ===
+ - deputado_74574
+
+=== Comunidade 409 (ID real 422) — 1 nós ===
+ - deputado_141488
+
+=== Comunidade 410 (ID real 423) — 1 nós ===
+ - deputado_204395
+
+=== Comunidade 411 (ID real 425) — 1 nós ===
+ - deputado_73943
+
+=== Comunidade 412 (ID real 426) — 1 nós ===
+ - deputado_73486
+
+=== Comunidade 413 (ID real 427) — 1 nós ===
+ - deputado_160601
+
+=== Comunidade 414 (ID real 428) — 1 nós ===
+ - deputado_160641
+
+=== Comunidade 415 (ID real 429) — 1 nós ===
+ - deputado_74161
+
+=== Comunidade 416 (ID real 430) — 1 nós ===
+ - deputado_178989
+
+=== Comunidade 417 (ID real 431) — 1 nós ===
+ - deputado_73801
+
+=== Comunidade 418 (ID real 432) — 1 nós ===
+ - deputado_211649
+
+=== Comunidade 419 (ID real 433) — 1 nós ===
+ - deputado_160651
+
+=== Comunidade 420 (ID real 434) — 1 nós ===
+ - deputado_73466
+
+=== Comunidade 421 (ID real 435) — 1 nós ===
+ - deputado_74371
+
+=== Comunidade 422 (ID real 436) — 1 nós ===
+ - deputado_204535
+
+=== Comunidade 423 (ID real 437) — 1 nós ===
+ - deputado_178921
+
+=== Comunidade 424 (ID real 438) — 1 nós ===
+ - deputado_204425
+
+=== Comunidade 425 (ID real 439) — 1 nós ===
+ - deputado_178934
+
+=== Comunidade 426 (ID real 440) — 1 nós ===
+ - deputado_141553
+
+=== Comunidade 427 (ID real 441) — 1 nós ===
+ - deputado_204478
+
+=== Comunidade 428 (ID real 442) — 1 nós ===
+ - deputado_160569
+
+=== Comunidade 429 (ID real 443) — 1 nós ===
+ - deputado_178889
+
+=== Comunidade 430 (ID real 444) — 1 nós ===
+ - deputado_160592
+
+=== Comunidade 431 (ID real 445) — 1 nós ===
+ - deputado_178836
+
+=== Comunidade 432 (ID real 447) — 1 nós ===
+ - deputado_141391
+
+=== Comunidade 433 (ID real 448) — 1 nós ===
+ - deputado_74090
+
+=== Comunidade 434 (ID real 449) — 1 nós ===
+ - deputado_160512
+
+=== Comunidade 435 (ID real 450) — 1 nós ===
+ - deputado_204551
+
+=== Comunidade 436 (ID real 451) — 1 nós ===
+ - deputado_160589
+
+=== Comunidade 437 (ID real 521) — 1 nós ===
+ - deputado_141401
+
+=== Comunidade 438 (ID real 453) — 1 nós ===
+ - deputado_204518
+
+=== Comunidade 439 (ID real 454) — 1 nós ===
+ - deputado_66828
+
+=== Comunidade 440 (ID real 455) — 1 nós ===
+ - deputado_178964
+
+=== Comunidade 441 (ID real 456) — 1 nós ===
+ - deputado_178959
+
+=== Comunidade 442 (ID real 458) — 1 nós ===
+ - deputado_178879
+
+=== Comunidade 443 (ID real 459) — 1 nós ===
+ - deputado_160510
+
+=== Comunidade 444 (ID real 16) — 1 nós ===
+ - deputado_160645
+
+=== Comunidade 445 (ID real 461) — 1 nós ===
+ - deputado_160642
+
+=== Comunidade 446 (ID real 462) — 1 nós ===
+ - deputado_74400
+
+=== Comunidade 447 (ID real 463) — 1 nós ===
+ - deputado_178912
+
+=== Comunidade 448 (ID real 464) — 1 nós ===
+ - deputado_73788
+
+=== Comunidade 449 (ID real 465) — 1 nós ===
+ - deputado_74693
+
+=== Comunidade 450 (ID real 466) — 1 nós ===
+ - deputado_178945
+
+=== Comunidade 451 (ID real 467) — 1 nós ===
+ - deputado_178933
+
+=== Comunidade 452 (ID real 468) — 1 nós ===
+ - deputado_143084
+
+=== Comunidade 453 (ID real 469) — 1 nós ===
+ - deputado_204379
+
+=== Comunidade 454 (ID real 470) — 1 nós ===
+ - deputado_74646
+
+=== Comunidade 455 (ID real 471) — 1 nós ===
+ - deputado_178881
+
+=== Comunidade 456 (ID real 472) — 1 nós ===
+ - deputado_204562
+
+=== Comunidade 457 (ID real 473) — 1 nós ===
+ - deputado_204527
+
+=== Comunidade 458 (ID real 474) — 1 nós ===
+ - deputado_141464
+
+=== Comunidade 459 (ID real 475) — 1 nós ===
+ - deputado_204563
+
+=== Comunidade 460 (ID real 476) — 1 nós ===
+ - deputado_204574
+
+=== Comunidade 461 (ID real 477) — 1 nós ===
+ - deputado_178997
+
+=== Comunidade 462 (ID real 478) — 1 nós ===
+ - deputado_141516
+
+=== Comunidade 463 (ID real 479) — 1 nós ===
+ - deputado_178860
+
+=== Comunidade 464 (ID real 480) — 1 nós ===
+ - deputado_178977
+
+=== Comunidade 465 (ID real 481) — 1 nós ===
+ - deputado_178975
+
+=== Comunidade 466 (ID real 482) — 1 nós ===
+ - deputado_204502
+
+=== Comunidade 467 (ID real 483) — 1 nós ===
+ - deputado_204507
+
+=== Comunidade 468 (ID real 484) — 1 nós ===
+ - deputado_141405
+
+=== Comunidade 469 (ID real 485) — 1 nós ===
+ - deputado_74537
+
+=== Comunidade 470 (ID real 486) — 1 nós ===
+ - deputado_171623
+
+=== Comunidade 471 (ID real 487) — 1 nós ===
+ - deputado_141434
+
+=== Comunidade 472 (ID real 488) — 1 nós ===
+ - deputado_204408
+
+=== Comunidade 473 (ID real 489) — 1 nós ===
+ - deputado_108338
+
+=== Comunidade 474 (ID real 490) — 1 nós ===
+ - deputado_178866
+
+=== Comunidade 475 (ID real 491) — 1 nós ===
+ - deputado_133968
+
+=== Comunidade 476 (ID real 492) — 1 nós ===
+ - deputado_74356
+
+=== Comunidade 477 (ID real 493) — 1 nós ===
+ - deputado_204385
+
+=== Comunidade 478 (ID real 494) — 1 nós ===
+ - deputado_137070
+
+=== Comunidade 479 (ID real 495) — 1 nós ===
+ - deputado_74043
+
+=== Comunidade 480 (ID real 496) — 1 nós ===
+ - deputado_204559
+
+=== Comunidade 481 (ID real 497) — 1 nós ===
+ - deputado_204353
+
+=== Comunidade 482 (ID real 498) — 1 nós ===
+ - deputado_178924
+
+=== Comunidade 483 (ID real 499) — 1 nós ===
+ - deputado_74060
+
+=== Comunidade 484 (ID real 501) — 1 nós ===
+ - deputado_204368
+
+=== Comunidade 485 (ID real 502) — 1 nós ===
+ - deputado_204375
+
+=== Comunidade 486 (ID real 503) — 1 nós ===
+ - deputado_204382
+
+=== Comunidade 487 (ID real 504) — 1 nós ===
+ - deputado_204458
+
+=== Comunidade 488 (ID real 505) — 1 nós ===
+ - deputado_178843
+
+=== Comunidade 489 (ID real 507) — 1 nós ===
+ - deputado_160527
+
+=== Comunidade 490 (ID real 508) — 1 nós ===
+ - deputado_178882
+
+=== Comunidade 491 (ID real 509) — 1 nós ===
+ - deputado_160600
+
+=== Comunidade 492 (ID real 510) — 1 nós ===
+ - deputado_143632
+
+=== Comunidade 493 (ID real 511) — 1 nós ===
+ - deputado_179587
+
+=== Comunidade 494 (ID real 524) — 1 nós ===
+ - deputado_160541
+
+=== Comunidade 495 (ID real 519) — 1 nós ===
+ - deputado_74478
+
+=== Comunidade 496 (ID real 514) — 1 nós ===
+ - deputado_204546
+
+=== Comunidade 497 (ID real 515) — 1 nós ===
+ - deputado_160667
+
+=== Comunidade 498 (ID real 516) — 1 nós ===
+ - deputado_212504
+
+=== Comunidade 499 (ID real 518) — 1 nós ===
+ - deputado_73808
+
+=== Comunidade 500 (ID real 520) — 1 nós ===
+ - deputado_178948
+
+=== Comunidade 501 (ID real 529) — 1 nós ===
+ - deputado_178887
+
+=== Comunidade 502 (ID real 522) — 1 nós ===
+ - deputado_160591
+
+=== Comunidade 503 (ID real 523) — 1 nós ===
+ - deputado_179000
+
+=== Comunidade 504 (ID real 527) — 1 nós ===
+ - deputado_188097
+
+=== Comunidade 505 (ID real 530) — 1 nós ===
+ - deputado_168175
+
+=== Comunidade 506 (ID real 531) — 1 nós ===
+ - deputado_213762
+
+=== Comunidade 507 (ID real 161) — 1 nós ===
+ - deputado_62881
+
+=== Comunidade 508 (ID real 512) — 1 nós ===
+ - deputado_213856
+
+=== Comunidade 509 (ID real 525) — 1 nós ===
+ - deputado_73692
+
+=== Comunidade 510 (ID real 526) — 1 nós ===
+ - deputado_213274
+
+=== Comunidade 511 (ID real 402) — 1 nós ===
+ - deputado_178825
+
+=== Comunidade 512 (ID real 158) — 1 nós ===
+ - deputado_178982
+
+=== Comunidade 513 (ID real 287) — 1 nós ===
+ - deputado_129618
+
+=== Comunidade 514 (ID real 207) — 1 nós ===
+ - deputado_178963
+
+=== Comunidade 515 (ID real 289) — 1 nós ===
+ - deputado_92172
+
+=== Comunidade 516 (ID real 291) — 1 nós ===
+ - deputado_74165
+
+=== Comunidade 517 (ID real 39) — 1 nós ===
+ - deputado_215042
+
+=== Comunidade 518 (ID real 78) — 1 nós ===
+ - deputado_215044
+
+=== Comunidade 519 (ID real 424) — 1 nós ===
+ - deputado_141372
+
+=== Comunidade 520 (ID real 187) — 1 nós ===
+ - deputado_215043
+
+=== Comunidade 521 (ID real 196) — 1 nós ===
+ - deputado_178844
+
+=== Comunidade 522 (ID real 457) — 1 nós ===
+ - deputado_216198
+
+=== Comunidade 523 (ID real 338) — 1 nós ===
+ - deputado_215361
+
+=== Comunidade 524 (ID real 218) — 1 nós ===
+ - deputado_74856
+
+=== Comunidade 525 (ID real 91) — 1 nós ===
+ - deputado_105534
+
+=== Comunidade 526 (ID real 349) — 1 nós ===
+ - deputado_123756
+
+=== Comunidade 527 (ID real 224) — 1 nós ===
+ - deputado_220008
+
+=== Comunidade 528 (ID real 97) — 1 nós ===
+ - deputado_141480
+
+=== Comunidade 529 (ID real 356) — 1 nós ===
+ - deputado_219592
+
+=== Comunidade 530 (ID real 102) — 1 nós ===
+ - deputado_219585
+
+=== Comunidade 531 (ID real 107) — 1 nós ===
+ - deputado_219599
+
+=== Comunidade 532 (ID real 500) — 1 nós ===
+ - deputado_219568
+
+=== Comunidade 533 (ID real 121) — 1 nós ===
+ - deputado_214865
+
