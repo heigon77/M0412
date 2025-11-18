@@ -1,0 +1,24 @@
+=== Relatório de Comunidades ===
+Peso mínimo considerado: 20
+Resolução de Louvain: 1.0
+Grau máximo permitido: 500
+Total de comunidades: 3
+Modularidade: 0.0000
+
+📈 Tamanho das comunidades (maior → menor):
+ - Comunidade 2: 3 nós
+ - Comunidade 0: 1 nós
+ - Comunidade 1: 1 nós
+
+
+=== Comunidade 1 (ID real 2) — 3 nós ===
+ - deputado_123756
+ - deputado_220008
+ - deputado_214865
+
+=== Comunidade 2 (ID real 0) — 1 nós ===
+ - deputado_212504
+
+=== Comunidade 3 (ID real 1) — 1 nós ===
+ - deputado_216198
+

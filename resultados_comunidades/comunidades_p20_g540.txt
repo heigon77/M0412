@@ -1,0 +1,70 @@
+=== Relatório de Comunidades ===
+Peso mínimo considerado: 20
+Resolução de Louvain: 1.0
+Grau máximo permitido: 540
+Total de comunidades: 3
+Modularidade: 0.5710
+
+📈 Tamanho das comunidades (maior → menor):
+ - Comunidade 0: 18 nós
+ - Comunidade 2: 17 nós
+ - Comunidade 1: 16 nós
+
+
+=== Comunidade 1 (ID real 0) — 18 nós ===
+ - deputado_129618
+ - deputado_141515
+ - deputado_178862
+ - deputado_216544
+ - deputado_218086
+ - deputado_74253
+ - deputado_217330
+ - deputado_218245
+ - deputado_74254
+ - deputado_141478
+ - deputado_217036
+ - deputado_178868
+ - deputado_216198
+ - deputado_216313
+ - deputado_216545
+ - deputado_118594
+ - deputado_191945
+ - deputado_218741
+
+=== Comunidade 2 (ID real 2) — 17 nós ===
+ - deputado_204543
+ - deputado_73891
+ - deputado_74305
+ - deputado_74571
+ - deputado_159237
+ - deputado_211649
+ - deputado_211866
+ - deputado_141428
+ - deputado_212504
+ - deputado_178830
+ - deputado_212749
+ - deputado_213679
+ - deputado_213856
+ - deputado_74806
+ - deputado_214445
+ - deputado_214694
+ - deputado_178982
+
+=== Comunidade 3 (ID real 1) — 16 nós ===
+ - deputado_74141
+ - deputado_105534
+ - deputado_123756
+ - deputado_141480
+ - deputado_154919
+ - deputado_160517
+ - deputado_219592
+ - deputado_220008
+ - deputado_160542
+ - deputado_219585
+ - deputado_219599
+ - deputado_160621
+ - deputado_178888
+ - deputado_218879
+ - deputado_219568
+ - deputado_214865
+

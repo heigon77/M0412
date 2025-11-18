@@ -1,0 +1,43 @@
+=== Relatório de Comunidades ===
+Peso mínimo considerado: 10
+Resolução de Louvain: 1.0
+Grau máximo permitido: 520
+Total de comunidades: 5
+Modularidade: 0.6038
+
+📈 Tamanho das comunidades (maior → menor):
+ - Comunidade 0: 6 nós
+ - Comunidade 2: 5 nós
+ - Comunidade 1: 4 nós
+ - Comunidade 4: 2 nós
+ - Comunidade 3: 1 nós
+
+
+=== Comunidade 1 (ID real 0) — 6 nós ===
+ - deputado_105534
+ - deputado_123756
+ - deputado_220008
+ - deputado_219599
+ - deputado_219568
+ - deputado_214865
+
+=== Comunidade 2 (ID real 2) — 5 nós ===
+ - deputado_129618
+ - deputado_217036
+ - deputado_216198
+ - deputado_216313
+ - deputado_191945
+
+=== Comunidade 3 (ID real 1) — 4 nós ===
+ - deputado_211649
+ - deputado_211866
+ - deputado_212504
+ - deputado_178982
+
+=== Comunidade 4 (ID real 4) — 2 nós ===
+ - deputado_214445
+ - deputado_214694
+
+=== Comunidade 5 (ID real 3) — 1 nós ===
+ - deputado_213856
+

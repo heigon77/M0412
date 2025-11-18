@@ -1,0 +1,114 @@
+=== Relatório de Comunidades ===
+Peso mínimo considerado: 500
+Resolução de Louvain: 1.0
+Grau máximo permitido: 500
+Total de comunidades: 10
+Modularidade: 0.1852
+
+📈 Tamanho das comunidades (maior → menor):
+ - Comunidade 7: 26 nós
+ - Comunidade 9: 22 nós
+ - Comunidade 0: 19 nós
+ - Comunidade 1: 1 nós
+ - Comunidade 2: 1 nós
+ - Comunidade 3: 1 nós
+ - Comunidade 5: 1 nós
+ - Comunidade 4: 1 nós
+ - Comunidade 6: 1 nós
+ - Comunidade 8: 1 nós
+
+
+=== Comunidade 1 (ID real 7) — 26 nós ===
+ - deputado_112437
+ - deputado_160588
+ - deputado_178937
+ - deputado_204391
+ - deputado_204436
+ - deputado_204464
+ - deputado_204564
+ - deputado_205865
+ - deputado_67138
+ - deputado_74270
+ - deputado_141458
+ - deputado_141518
+ - deputado_178854
+ - deputado_178954
+ - deputado_204380
+ - deputado_204410
+ - deputado_74200
+ - deputado_160510
+ - deputado_178879
+ - deputado_74693
+ - deputado_204527
+ - deputado_204563
+ - deputado_204574
+ - deputado_74646
+ - deputado_143632
+ - deputado_160667
+
+=== Comunidade 2 (ID real 9) — 22 nós ===
+ - deputado_74212
+ - deputado_178882
+ - deputado_160541
+ - deputado_73808
+ - deputado_178887
+ - deputado_160591
+ - deputado_179000
+ - deputado_213274
+ - deputado_62881
+ - deputado_178862
+ - deputado_178943
+ - deputado_178963
+ - deputado_216544
+ - deputado_217480
+ - deputado_73463
+ - deputado_74165
+ - deputado_92172
+ - deputado_141372
+ - deputado_178844
+ - deputado_178935
+ - deputado_215045
+ - deputado_141478
+
+=== Comunidade 3 (ID real 0) — 19 nós ===
+ - deputado_178833
+ - deputado_204354
+ - deputado_204397
+ - deputado_204399
+ - deputado_204433
+ - deputado_204552
+ - deputado_204576
+ - deputado_74079
+ - deputado_90842
+ - deputado_122158
+ - deputado_160552
+ - deputado_204447
+ - deputado_204478
+ - deputado_81055
+ - deputado_141401
+ - deputado_160645
+ - deputado_141516
+ - deputado_178997
+ - deputado_204486
+
+=== Comunidade 4 (ID real 1) — 1 nós ===
+ - deputado_134812
+
+=== Comunidade 5 (ID real 2) — 1 nós ===
+ - deputado_141422
+
+=== Comunidade 6 (ID real 3) — 1 nós ===
+ - deputado_141552
+
+=== Comunidade 7 (ID real 5) — 1 nós ===
+ - deputado_171619
+
+=== Comunidade 8 (ID real 4) — 1 nós ===
+ - deputado_204429
+
+=== Comunidade 9 (ID real 6) — 1 nós ===
+ - deputado_74043
+
+=== Comunidade 10 (ID real 8) — 1 nós ===
+ - deputado_141515
+
