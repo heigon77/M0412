@@ -21,7 +21,30 @@ Grau médio: 585.80
 ----------------------------------------
 Comunidade 0
 Tamanho: 433 deputados
-----------------------------------------
+Representatividade por partido:
+- PL: 81 (18.7%)
+- PP: 61 (14.1%)
+- REPUBLICANOS: 50 (11.5%)
+- UNIÃO: 49 (11.3%)
+- PSD: 48 (11.1%)
+- MDB: 40 (9.2%)
+- PSDB: 32 (7.4%)
+- PSC: 11 (2.5%)
+- PODE: 11 (2.5%)
+- NOVO: 8 (1.8%)
+- PROS: 8 (1.8%)
+- SOLIDARIEDADE: 8 (1.8%)
+- AVANTE: 7 (1.6%)
+- CIDADANIA: 5 (1.2%)
+- PTB: 5 (1.2%)
+- PATRIOTA: 4 (0.9%)
+- PSL: 3 (0.7%)
+- DEM: 2 (0.5%)
+
+Soma dos pesos internos: 68951169
+Média dos pesos internos: 750.45
+
+Deputados da comunidade:
 - deputado_204549 | AJ Albuquerque (PP-CE)
 - deputado_204521 | Abou Anni (UNIÃO-SP)
 - deputado_204554 | Abílio Santana (PL-BA)
@@ -460,7 +483,32 @@ Tamanho: 433 deputados
 ----------------------------------------
 Comunidade 1
 Tamanho: 164 deputados
-----------------------------------------
+Representatividade por partido:
+- PT: 61 (37.2%)
+- PSB: 28 (17.1%)
+- PDT: 20 (12.2%)
+- PSD: 9 (5.5%)
+- PSOL: 9 (5.5%)
+- PCdoB: 8 (4.9%)
+- PV: 4 (2.4%)
+- UNIÃO: 4 (2.4%)
+- CIDADANIA: 3 (1.8%)
+- MDB: 3 (1.8%)
+- PL: 3 (1.8%)
+- PSDB: 2 (1.2%)
+- AVANTE: 2 (1.2%)
+- REDE: 2 (1.2%)
+- PODE: 1 (0.6%)
+- REPUBLICANOS: 1 (0.6%)
+- PROS: 1 (0.6%)
+- SOLIDARIEDADE: 1 (0.6%)
+- S.PART.: 1 (0.6%)
+- DEM: 1 (0.6%)
+
+Soma dos pesos internos: 10153934
+Média dos pesos internos: 770.23
+
+Deputados da comunidade:
 - deputado_160508 | Afonso Florence (PT-BA)
 - deputado_178835 | Afonso Motta (PDT-RS)
 - deputado_204495 | Airton Faleiro (PT-PA)

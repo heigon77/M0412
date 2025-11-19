@@ -21,7 +21,27 @@ Grau médio: 266.26
 ----------------------------------------
 Comunidade 0
 Tamanho: 131 deputados
-----------------------------------------
+Representatividade por partido:
+- PT: 55 (42.0%)
+- PSB: 21 (16.0%)
+- PDT: 17 (13.0%)
+- PSOL: 8 (6.1%)
+- PCdoB: 7 (5.3%)
+- PSD: 5 (3.8%)
+- PV: 4 (3.1%)
+- PL: 3 (2.3%)
+- PSDB: 2 (1.5%)
+- AVANTE: 2 (1.5%)
+- UNIÃO: 2 (1.5%)
+- REDE: 2 (1.5%)
+- REPUBLICANOS: 1 (0.8%)
+- PROS: 1 (0.8%)
+- CIDADANIA: 1 (0.8%)
+
+Soma dos pesos internos: 8011178
+Média dos pesos internos: 1059.40
+
+Deputados da comunidade:
 - deputado_160508 | Afonso Florence (PT-BA)
 - deputado_178835 | Afonso Motta (PDT-RS)
 - deputado_204495 | Airton Faleiro (PT-PA)
@@ -158,7 +178,30 @@ Tamanho: 131 deputados
 ----------------------------------------
 Comunidade 1
 Tamanho: 364 deputados
-----------------------------------------
+Representatividade por partido:
+- PL: 71 (19.5%)
+- PP: 51 (14.0%)
+- UNIÃO: 46 (12.6%)
+- REPUBLICANOS: 41 (11.3%)
+- PSD: 40 (11.0%)
+- MDB: 36 (9.9%)
+- PSDB: 24 (6.6%)
+- NOVO: 8 (2.2%)
+- PODE: 8 (2.2%)
+- SOLIDARIEDADE: 7 (1.9%)
+- PSC: 7 (1.9%)
+- AVANTE: 6 (1.6%)
+- CIDADANIA: 5 (1.4%)
+- PROS: 5 (1.4%)
+- PATRIOTA: 4 (1.1%)
+- PTB: 3 (0.8%)
+- PSL: 1 (0.3%)
+- PDT: 1 (0.3%)
+
+Soma dos pesos internos: 57091476
+Média dos pesos internos: 1049.28
+
+Deputados da comunidade:
 - deputado_204549 | AJ Albuquerque (PP-CE)
 - deputado_204521 | Abou Anni (UNIÃO-SP)
 - deputado_204554 | Abílio Santana (PL-BA)

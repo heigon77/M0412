@@ -2,7 +2,7 @@ Análise para peso ≥ 1250
 ----------------------------------------
 Nós: 315
 Arestas: 9879
-Modularidade Louvain: 0.2372
+Modularidade Louvain: 0.2364
 Comunidades detectadas: 3
 
 Peso máximo: 1867
@@ -21,7 +21,24 @@ Grau médio: 62.72
 ----------------------------------------
 Comunidade 0
 Tamanho: 82 deputados
-----------------------------------------
+Representatividade por partido:
+- PT: 41 (50.0%)
+- PDT: 11 (13.4%)
+- PSB: 9 (11.0%)
+- PCdoB: 7 (8.5%)
+- PSOL: 4 (4.9%)
+- REDE: 2 (2.4%)
+- PV: 2 (2.4%)
+- PL: 2 (2.4%)
+- PSDB: 1 (1.2%)
+- UNIÃO: 1 (1.2%)
+- REPUBLICANOS: 1 (1.2%)
+- AVANTE: 1 (1.2%)
+
+Soma dos pesos internos: 1428146
+Média dos pesos internos: 1321.13
+
+Deputados da comunidade:
 - deputado_178835 | Afonso Motta (PDT-RS)
 - deputado_204495 | Airton Faleiro (PT-PA)
 - deputado_204503 | Alexandre Padilha (PT-SP)
@@ -108,8 +125,26 @@ Tamanho: 82 deputados
 
 ----------------------------------------
 Comunidade 1
-Tamanho: 101 deputados
-----------------------------------------
+Tamanho: 99 deputados
+Representatividade por partido:
+- PL: 33 (33.3%)
+- PP: 17 (17.2%)
+- UNIÃO: 14 (14.1%)
+- PSD: 10 (10.1%)
+- REPUBLICANOS: 9 (9.1%)
+- MDB: 5 (5.1%)
+- PODE: 3 (3.0%)
+- AVANTE: 2 (2.0%)
+- PSDB: 2 (2.0%)
+- PATRIOTA: 1 (1.0%)
+- SOLIDARIEDADE: 1 (1.0%)
+- PROS: 1 (1.0%)
+- PSC: 1 (1.0%)
+
+Soma dos pesos internos: 5129607
+Média dos pesos internos: 1335.14
+
+Deputados da comunidade:
 - deputado_204521 | Abou Anni (UNIÃO-SP)
 - deputado_178836 | Alan Rick (UNIÃO-AC)
 - deputado_204413 | Alcides Rodrigues (PATRIOTA-GO)
@@ -126,7 +161,6 @@ Tamanho: 101 deputados
 - deputado_178829 | Capitão Augusto (PL-SP)
 - deputado_204531 | Capitão Derrite (PL-SP)
 - deputado_204507 | Carla Zambelli (PL-SP)
-- deputado_178993 | Carlos Henrique Gaguim (UNIÃO-TO)
 - deputado_204460 | Carlos Jordy (PL-RJ)
 - deputado_204369 | Caroline de Toni (PL-SC)
 - deputado_204504 | Cezinha de Madureira (PSD-SP)
@@ -173,7 +207,6 @@ Tamanho: 101 deputados
 - deputado_74585 | Lincoln Portela (PL-MG)
 - deputado_204382 | Loester Trutis (PL-MS)
 - deputado_196358 | Lourival Gomes (UNIÃO-RJ)
-- deputado_204404 | Lucas Redecker (PSDB-RS)
 - deputado_204381 | Luis Miranda (REPUBLICANOS-DF)
 - deputado_204448 | Luiz Antônio Corrêa (PP-RJ)
 - deputado_204485 | Luiz Carlos Motta (PL-SP)
@@ -215,8 +248,31 @@ Tamanho: 101 deputados
 
 ----------------------------------------
 Comunidade 2
-Tamanho: 132 deputados
-----------------------------------------
+Tamanho: 134 deputados
+Representatividade por partido:
+- REPUBLICANOS: 23 (17.2%)
+- PL: 20 (14.9%)
+- PP: 16 (11.9%)
+- UNIÃO: 14 (10.4%)
+- PSD: 13 (9.7%)
+- MDB: 11 (8.2%)
+- PSDB: 9 (6.7%)
+- NOVO: 8 (6.0%)
+- CIDADANIA: 5 (3.7%)
+- PSC: 3 (2.2%)
+- PTB: 2 (1.5%)
+- SOLIDARIEDADE: 2 (1.5%)
+- PODE: 2 (1.5%)
+- PROS: 2 (1.5%)
+- PT: 1 (0.7%)
+- AVANTE: 1 (0.7%)
+- PSL: 1 (0.7%)
+- PATRIOTA: 1 (0.7%)
+
+Soma dos pesos internos: 2383684
+Média dos pesos internos: 1355.91
+
+Deputados da comunidade:
 - deputado_204549 | AJ Albuquerque (PP-CE)
 - deputado_204554 | Abílio Santana (PL-BA)
 - deputado_204379 | Acácio Favacho (PROS-AP)
@@ -233,6 +289,7 @@ Tamanho: 132 deputados
 - deputado_204502 | Bozzella (UNIÃO-SP)
 - deputado_213762 | Carla Dickson (PROS-RN)
 - deputado_178962 | Carlos Gomes (REPUBLICANOS-RS)
+- deputado_178993 | Carlos Henrique Gaguim (UNIÃO-TO)
 - deputado_74262 | Carlos Sampaio (PSDB-SP)
 - deputado_164360 | Carmen Zanotto (CIDADANIA-SC)
 - deputado_141405 | Celso Maldaner (MDB-SC)
@@ -300,6 +357,7 @@ Tamanho: 132 deputados
 - deputado_160534 | Lauriete (PSC-ES)
 - deputado_204405 | Liziane Bayer (REPUBLICANOS-RS)
 - deputado_204523 | Lucas Gonzalez (NOVO-MG)
+- deputado_204404 | Lucas Redecker (PSDB-RS)
 - deputado_204455 | Luiz Lima (PL-RJ)
 - deputado_204526 | Luiz Philippe de Orleans e Bragança (PL-SP)
 - deputado_204359 | Léo Moraes (PODE-RO)

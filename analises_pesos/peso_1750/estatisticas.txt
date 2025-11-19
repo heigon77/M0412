@@ -21,7 +21,13 @@ Grau médio: 3.67
 ----------------------------------------
 Comunidade 0
 Tamanho: 8 deputados
-----------------------------------------
+Representatividade por partido:
+- NOVO: 8 (100.0%)
+
+Soma dos pesos internos: 36027
+Média dos pesos internos: 1801.35
+
+Deputados da comunidade:
 - deputado_204528 | Adriana Ventura (NOVO-SP)
 - deputado_204516 | Alexis Fonteyne (NOVO-SP)
 - deputado_204365 | Gilson Marques (NOVO-SC)
@@ -35,7 +41,13 @@ Tamanho: 8 deputados
 ----------------------------------------
 Comunidade 1
 Tamanho: 2 deputados
-----------------------------------------
+Representatividade por partido:
+- REPUBLICANOS: 2 (100.0%)
+
+Soma dos pesos internos: 1783
+Média dos pesos internos: 1783.00
+
+Deputados da comunidade:
 - deputado_204356 | Amaro Neto (REPUBLICANOS-ES)
 - deputado_204422 | Ossesio Silva (REPUBLICANOS-PE)
 
@@ -43,7 +55,14 @@ Tamanho: 2 deputados
 ----------------------------------------
 Comunidade 2
 Tamanho: 2 deputados
-----------------------------------------
+Representatividade por partido:
+- PTB: 1 (50.0%)
+- PL: 1 (50.0%)
+
+Soma dos pesos internos: 1770
+Média dos pesos internos: 1770.00
+
+Deputados da comunidade:
 - deputado_81297 | Dra. Soraya Manato (PTB-ES)
 - deputado_204455 | Luiz Lima (PL-RJ)
 
