@@ -1,0 +1,158 @@
+Análise para peso ≥ 1500
+----------------------------------------
+Nós: 103
+Arestas: 701
+Modularidade Louvain: 0.2807
+Comunidades detectadas: 6
+
+Peso máximo: 1867
+Peso mínimo: 1500
+Peso médio: 1569.97
+
+Grau máximo: 75
+Grau mínimo: 1
+Grau médio: 13.61
+
+==============================
+ DETALHAMENTO DAS COMUNIDADES
+==============================
+
+
+----------------------------------------
+Comunidade 0
+Tamanho: 21 deputados
+----------------------------------------
+- deputado_204521 | Abou Anni (UNIÃO-SP)
+- deputado_73696 | Angela Amin (PP-SC)
+- deputado_178829 | Capitão Augusto (PL-SP)
+- deputado_204490 | Charlles Evangelista (PP-MG)
+- deputado_204514 | Coronel Tadeu (PL-SP)
+- deputado_204355 | Da Vitória (PP-ES)
+- deputado_204351 | Dr. Luiz Ovando (PP-MS)
+- deputado_81297 | Dra. Soraya Manato (PTB-ES)
+- deputado_92346 | Eduardo Bolsonaro (PL-SP)
+- deputado_160640 | Eros Biondini (PL-MG)
+- deputado_204473 | General Girão (PL-RN)
+- deputado_204444 | Helio Lopes (PL-RJ)
+- deputado_196358 | Lourival Gomes (UNIÃO-RJ)
+- deputado_204404 | Lucas Redecker (PSDB-RS)
+- deputado_204455 | Luiz Lima (PL-RJ)
+- deputado_204458 | Major Fabiana (PL-RJ)
+- deputado_204449 | Nelson Barbudo (PL-MT)
+- deputado_204415 | Nereu Crispim (PSD-RS)
+- deputado_160642 | Pastor Eurico (PL-PE)
+- deputado_160601 | Pr. Marco Feliciano (PL-SP)
+- deputado_197438 | Tito (AVANTE-BA)
+
+
+----------------------------------------
+Comunidade 1
+Tamanho: 8 deputados
+----------------------------------------
+- deputado_204528 | Adriana Ventura (NOVO-SP)
+- deputado_204516 | Alexis Fonteyne (NOVO-SP)
+- deputado_204365 | Gilson Marques (NOVO-SC)
+- deputado_204523 | Lucas Gonzalez (NOVO-MG)
+- deputado_156190 | Marcel van Hattem (NOVO-RS)
+- deputado_204461 | Paulo Ganime (NOVO-RJ)
+- deputado_204519 | Tiago Mitraud (NOVO-MG)
+- deputado_204532 | Vinicius Poit (NOVO-SP)
+
+
+----------------------------------------
+Comunidade 2
+Tamanho: 44 deputados
+----------------------------------------
+- deputado_121948 | Adriano do Baldy (PP-GO)
+- deputado_204356 | Amaro Neto (REPUBLICANOS-ES)
+- deputado_204414 | Aroldo Martins (REPUBLICANOS-PR)
+- deputado_109429 | Benes Leocádio (UNIÃO-RN)
+- deputado_74052 | Bosco Costa (PL-SE)
+- deputado_178962 | Carlos Gomes (REPUBLICANOS-RS)
+- deputado_178993 | Carlos Henrique Gaguim (UNIÃO-TO)
+- deputado_204476 | Chiquinho Brazão (AVANTE-RJ)
+- deputado_178928 | Christiane de Souza Yared (PP-PR)
+- deputado_204440 | Christino Aureo (PP-RJ)
+- deputado_204459 | Daniela do Waguinho (UNIÃO-RJ)
+- deputado_204412 | Dr. Zacharias Calil (UNIÃO-GO)
+- deputado_178871 | Evair Vieira de Melo (PP-ES)
+- deputado_204392 | Francisco Jr. (PSD-GO)
+- deputado_115746 | Gelson Azevedo (PL-RJ)
+- deputado_204491 | Gilberto Abramo (REPUBLICANOS-MG)
+- deputado_160673 | Giovani Cherini (PL-RS)
+- deputado_178981 | Herculano Passos (REPUBLICANOS-SP)
+- deputado_204373 | Hélio Costa (PSD-SC)
+- deputado_205550 | Jorge Braz (REPUBLICANOS-RJ)
+- deputado_204386 | Jose Mario Schreiner (MDB-GO)
+- deputado_141459 | João Maia (PL-RN)
+- deputado_204372 | Julio Cesar Ribeiro (REPUBLICANOS-DF)
+- deputado_160534 | Lauriete (PSC-ES)
+- deputado_74585 | Lincoln Portela (PL-MG)
+- deputado_204448 | Luiz Antônio Corrêa (PP-RJ)
+- deputado_204485 | Luiz Carlos Motta (PL-SP)
+- deputado_204418 | Luizão Goulart (SOLIDARIEDADE-PR)
+- deputado_178983 | Marcio Alvino (PL-SP)
+- deputado_204522 | Marco Bertaiolli (PSD-SP)
+- deputado_204540 | Maria Rosas (REPUBLICANOS-SP)
+- deputado_204432 | Marina Santos (REPUBLICANOS-PI)
+- deputado_75431 | Maurício Dziedricki (PODE-RS)
+- deputado_178985 | Miguel Lombardi (PL-SP)
+- deputado_66179 | Norma Ayub (PP-ES)
+- deputado_204422 | Ossesio Silva (REPUBLICANOS-PE)
+- deputado_160558 | Paulo Freire Costa (PL-SP)
+- deputado_204406 | Pedro Westphalen (PP-RS)
+- deputado_204529 | Policial Katia Sastre (PL-SP)
+- deputado_204362 | Ricardo Guidi (PSD-SC)
+- deputado_152610 | Roberto Alves (REPUBLICANOS-SP)
+- deputado_178861 | Ronaldo Carletto (PP-BA)
+- deputado_143084 | Tiago Dimas (PODE-TO)
+- deputado_74459 | Átila Lira (PP-PI)
+
+
+----------------------------------------
+Comunidade 3
+Tamanho: 26 deputados
+----------------------------------------
+- deputado_204400 | Aline Sleutjes (UNIÃO-PR)
+- deputado_204545 | Alê Silva (REPUBLICANOS-MG)
+- deputado_204374 | Bia Kicis (PL-DF)
+- deputado_204388 | Bibo Nunes (PL-RS)
+- deputado_204531 | Capitão Derrite (PL-SP)
+- deputado_204507 | Carla Zambelli (PL-SP)
+- deputado_204460 | Carlos Jordy (PL-RJ)
+- deputado_204369 | Caroline de Toni (PL-SC)
+- deputado_204376 | Coronel Armando (PL-SC)
+- deputado_204378 | Coronel Chrisóstomo (PL-RO)
+- deputado_204367 | Daniel Freitas (PL-SC)
+- deputado_204512 | Delegado Marcelo Freitas (UNIÃO-MG)
+- deputado_204368 | Fabio Schiochet (UNIÃO-SC)
+- deputado_204398 | Felipe Francischini (UNIÃO-PR)
+- deputado_204477 | Felício Laterça (PP-RJ)
+- deputado_204484 | General Peternelli (UNIÃO-SP)
+- deputado_204513 | Guiga Peixoto (UNIÃO-SP)
+- deputado_204442 | Gurgel (UNIÃO-RJ)
+- deputado_178910 | Joaquim Passarinho (PL-PA)
+- deputado_204520 | Junio Amaral (PL-MG)
+- deputado_204497 | Júnior Ferrari (PSD-PA)
+- deputado_204452 | Márcio Labre (PL-RJ)
+- deputado_204479 | Nicoletti (UNIÃO-RR)
+- deputado_204366 | Rodrigo Coelho (PODE-SC)
+- deputado_204416 | Sanderson (PL-RS)
+- deputado_204387 | Sargento Fahur (PSD-PR)
+
+
+----------------------------------------
+Comunidade 4
+Tamanho: 2 deputados
+----------------------------------------
+- deputado_74057 | Alice Portugal (PCdoB-BA)
+- deputado_74848 | Jandira Feghali (PCdoB-RJ)
+
+
+----------------------------------------
+Comunidade 5
+Tamanho: 2 deputados
+----------------------------------------
+- deputado_204394 | Gervásio Maia (PSB-PB)
+- deputado_204483 | Vilson da Fetaemg (PSB-MG)
+

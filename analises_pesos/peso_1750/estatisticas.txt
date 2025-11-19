@@ -1,0 +1,49 @@
+Análise para peso ≥ 1750
+----------------------------------------
+Nós: 12
+Arestas: 22
+Modularidade Louvain: 0.1674
+Comunidades detectadas: 3
+
+Peso máximo: 1867
+Peso mínimo: 1751
+Peso médio: 1799.09
+
+Grau máximo: 7
+Grau mínimo: 1
+Grau médio: 3.67
+
+==============================
+ DETALHAMENTO DAS COMUNIDADES
+==============================
+
+
+----------------------------------------
+Comunidade 0
+Tamanho: 8 deputados
+----------------------------------------
+- deputado_204528 | Adriana Ventura (NOVO-SP)
+- deputado_204516 | Alexis Fonteyne (NOVO-SP)
+- deputado_204365 | Gilson Marques (NOVO-SC)
+- deputado_204523 | Lucas Gonzalez (NOVO-MG)
+- deputado_156190 | Marcel van Hattem (NOVO-RS)
+- deputado_204461 | Paulo Ganime (NOVO-RJ)
+- deputado_204519 | Tiago Mitraud (NOVO-MG)
+- deputado_204532 | Vinicius Poit (NOVO-SP)
+
+
+----------------------------------------
+Comunidade 1
+Tamanho: 2 deputados
+----------------------------------------
+- deputado_204356 | Amaro Neto (REPUBLICANOS-ES)
+- deputado_204422 | Ossesio Silva (REPUBLICANOS-PE)
+
+
+----------------------------------------
+Comunidade 2
+Tamanho: 2 deputados
+----------------------------------------
+- deputado_81297 | Dra. Soraya Manato (PTB-ES)
+- deputado_204455 | Luiz Lima (PL-RJ)
+
