@@ -1,0 +1,6 @@
+requests
+tqdm
+ipykernel
+pandas
+matplotlib
+networkx
