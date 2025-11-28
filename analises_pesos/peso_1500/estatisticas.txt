@@ -2,7 +2,7 @@ Análise para peso ≥ 1500
 ----------------------------------------
 Nós: 103
 Arestas: 701
-Modularidade Louvain: 0.2783
+Modularidade Louvain: 0.2807
 Comunidades detectadas: 6
 
 Peso máximo: 1867
@@ -20,16 +20,43 @@ Grau médio: 13.61
 
 ----------------------------------------
 Comunidade 0
-Tamanho: 2 deputados
+Tamanho: 21 deputados
 Representatividade por partido:
-- PSB: 2 (100.0%)
+- PL: 11 (52.4%)
+- PP: 4 (19.0%)
+- UNIÃO: 2 (9.5%)
+- PTB: 1 (4.8%)
+- PSD: 1 (4.8%)
+- AVANTE: 1 (4.8%)
+- PSDB: 1 (4.8%)
 
-Soma dos pesos internos: 1512
-Média dos pesos internos: 1512.00
+Soma dos pesos internos: 47758
+Média dos pesos internos: 1540.58
+
+Média de alinhamento da comunidade: 91.41%
 
 Deputados da comunidade:
-- deputado_204394 | Gervásio Maia (PSB-PB)
-- deputado_204483 | Vilson da Fetaemg (PSB-MG)
+- Abou Anni (UNIÃO-SP) | Alinhado: 91.9%
+- Angela Amin (PP-SC) | Alinhado: 89.9%
+- Capitão Augusto (PL-SP) | Alinhado: 93.4%
+- Charlles Evangelista (PP-MG) | Alinhado: 92.1%
+- Coronel Tadeu (PL-SP) | Alinhado: 91.0%
+- Da Vitória (PP-ES) | Alinhado: 90.5%
+- Dr. Luiz Ovando (PP-MS) | Alinhado: 92.8%
+- Dra. Soraya Manato (PTB-ES) | Alinhado: 92.2%
+- Eduardo Bolsonaro (PL-SP) | Alinhado: 90.3%
+- Eros Biondini (PL-MG) | Alinhado: 92.9%
+- General Girão (PL-RN) | Alinhado: 91.1%
+- Helio Lopes (PL-RJ) | Alinhado: 91.7%
+- Lourival Gomes (UNIÃO-RJ) | Alinhado: 92.2%
+- Lucas Redecker (PSDB-RS) | Alinhado: 83.6%
+- Luiz Lima (PL-RJ) | Alinhado: 91.4%
+- Major Fabiana (PL-RJ) | Alinhado: 91.9%
+- Nelson Barbudo (PL-MT) | Alinhado: 92.3%
+- Nereu Crispim (PSD-RS) | Alinhado: 92.1%
+- Pastor Eurico (PL-PE) | Alinhado: 91.9%
+- Pr. Marco Feliciano (PL-SP) | Alinhado: 93.0%
+- Tito (AVANTE-BA) | Alinhado: 91.3%
 
 
 ----------------------------------------
@@ -41,52 +68,84 @@ Representatividade por partido:
 Soma dos pesos internos: 49849
 Média dos pesos internos: 1780.32
 
+Média de alinhamento da comunidade: 69.58%
+
 Deputados da comunidade:
-- deputado_204528 | Adriana Ventura (NOVO-SP)
-- deputado_204516 | Alexis Fonteyne (NOVO-SP)
-- deputado_204365 | Gilson Marques (NOVO-SC)
-- deputado_204523 | Lucas Gonzalez (NOVO-MG)
-- deputado_156190 | Marcel van Hattem (NOVO-RS)
-- deputado_204461 | Paulo Ganime (NOVO-RJ)
-- deputado_204519 | Tiago Mitraud (NOVO-MG)
-- deputado_204532 | Vinicius Poit (NOVO-SP)
+- Adriana Ventura (NOVO-SP) | Alinhado: 70.0%
+- Alexis Fonteyne (NOVO-SP) | Alinhado: 69.5%
+- Gilson Marques (NOVO-SC) | Alinhado: 70.0%
+- Lucas Gonzalez (NOVO-MG) | Alinhado: 69.7%
+- Marcel van Hattem (NOVO-RS) | Alinhado: 69.0%
+- Paulo Ganime (NOVO-RJ) | Alinhado: 69.6%
+- Tiago Mitraud (NOVO-MG) | Alinhado: 69.4%
+- Vinicius Poit (NOVO-SP) | Alinhado: 69.4%
 
 
 ----------------------------------------
 Comunidade 2
-Tamanho: 19 deputados
+Tamanho: 44 deputados
 Representatividade por partido:
-- PL: 10 (52.6%)
-- PP: 3 (15.8%)
-- UNIÃO: 2 (10.5%)
-- PTB: 1 (5.3%)
-- PSD: 1 (5.3%)
-- AVANTE: 1 (5.3%)
-- PSDB: 1 (5.3%)
+- REPUBLICANOS: 11 (25.0%)
+- PL: 10 (22.7%)
+- PP: 9 (20.5%)
+- UNIÃO: 4 (9.1%)
+- PSD: 4 (9.1%)
+- PODE: 2 (4.5%)
+- AVANTE: 1 (2.3%)
+- MDB: 1 (2.3%)
+- PSC: 1 (2.3%)
+- SOLIDARIEDADE: 1 (2.3%)
 
-Soma dos pesos internos: 41628
-Média dos pesos internos: 1541.78
+Soma dos pesos internos: 299861
+Média dos pesos internos: 1561.78
+
+Média de alinhamento da comunidade: 94.64%
 
 Deputados da comunidade:
-- deputado_204521 | Abou Anni (UNIÃO-SP)
-- deputado_204490 | Charlles Evangelista (PP-MG)
-- deputado_204514 | Coronel Tadeu (PL-SP)
-- deputado_204355 | Da Vitória (PP-ES)
-- deputado_204351 | Dr. Luiz Ovando (PP-MS)
-- deputado_81297 | Dra. Soraya Manato (PTB-ES)
-- deputado_92346 | Eduardo Bolsonaro (PL-SP)
-- deputado_160640 | Eros Biondini (PL-MG)
-- deputado_204473 | General Girão (PL-RN)
-- deputado_204444 | Helio Lopes (PL-RJ)
-- deputado_196358 | Lourival Gomes (UNIÃO-RJ)
-- deputado_204404 | Lucas Redecker (PSDB-RS)
-- deputado_204455 | Luiz Lima (PL-RJ)
-- deputado_204458 | Major Fabiana (PL-RJ)
-- deputado_204449 | Nelson Barbudo (PL-MT)
-- deputado_204415 | Nereu Crispim (PSD-RS)
-- deputado_160642 | Pastor Eurico (PL-PE)
-- deputado_160601 | Pr. Marco Feliciano (PL-SP)
-- deputado_197438 | Tito (AVANTE-BA)
+- Adriano do Baldy (PP-GO) | Alinhado: 97.3%
+- Amaro Neto (REPUBLICANOS-ES) | Alinhado: 95.2%
+- Aroldo Martins (REPUBLICANOS-PR) | Alinhado: 95.2%
+- Benes Leocádio (UNIÃO-RN) | Alinhado: 96.4%
+- Bosco Costa (PL-SE) | Alinhado: 95.7%
+- Carlos Gomes (REPUBLICANOS-RS) | Alinhado: 95.5%
+- Carlos Henrique Gaguim (UNIÃO-TO) | Alinhado: 95.3%
+- Chiquinho Brazão (AVANTE-RJ) | Alinhado: 95.3%
+- Christiane de Souza Yared (PP-PR) | Alinhado: 93.4%
+- Christino Aureo (PP-RJ) | Alinhado: 96.2%
+- Daniela do Waguinho (UNIÃO-RJ) | Alinhado: 93.3%
+- Dr. Zacharias Calil (UNIÃO-GO) | Alinhado: 93.1%
+- Evair Vieira de Melo (PP-ES) | Alinhado: 94.6%
+- Francisco Jr. (PSD-GO) | Alinhado: 94.5%
+- Gelson Azevedo (PL-RJ) | Alinhado: 96.2%
+- Gilberto Abramo (REPUBLICANOS-MG) | Alinhado: 95.5%
+- Giovani Cherini (PL-RS) | Alinhado: 95.1%
+- Herculano Passos (REPUBLICANOS-SP) | Alinhado: 90.8%
+- Hélio Costa (PSD-SC) | Alinhado: 89.7%
+- Jorge Braz (REPUBLICANOS-RJ) | Alinhado: 95.5%
+- Jose Mario Schreiner (MDB-GO) | Alinhado: 94.6%
+- João Maia (PL-RN) | Alinhado: 96.0%
+- Julio Cesar Ribeiro (REPUBLICANOS-DF) | Alinhado: 94.6%
+- Lauriete (PSC-ES) | Alinhado: 95.7%
+- Lincoln Portela (PL-MG) | Alinhado: 94.2%
+- Luiz Antônio Corrêa (PP-RJ) | Alinhado: 95.2%
+- Luiz Carlos Motta (PL-SP) | Alinhado: 93.6%
+- Luizão Goulart (SOLIDARIEDADE-PR) | Alinhado: 94.8%
+- Marcio Alvino (PL-SP) | Alinhado: 95.5%
+- Marco Bertaiolli (PSD-SP) | Alinhado: 93.4%
+- Maria Rosas (REPUBLICANOS-SP) | Alinhado: 95.0%
+- Marina Santos (REPUBLICANOS-PI) | Alinhado: 95.2%
+- Maurício Dziedricki (PODE-RS) | Alinhado: 93.3%
+- Miguel Lombardi (PL-SP) | Alinhado: 94.4%
+- Norma Ayub (PP-ES) | Alinhado: 90.9%
+- Ossesio Silva (REPUBLICANOS-PE) | Alinhado: 95.3%
+- Paulo Freire Costa (PL-SP) | Alinhado: 94.7%
+- Pedro Westphalen (PP-RS) | Alinhado: 95.2%
+- Policial Katia Sastre (PL-SP) | Alinhado: 93.6%
+- Ricardo Guidi (PSD-SC) | Alinhado: 94.1%
+- Roberto Alves (REPUBLICANOS-SP) | Alinhado: 95.2%
+- Ronaldo Carletto (PP-BA) | Alinhado: 97.3%
+- Tiago Dimas (PODE-TO) | Alinhado: 92.4%
+- Átila Lira (PP-PI) | Alinhado: 95.9%
 
 
 ----------------------------------------
@@ -103,33 +162,35 @@ Representatividade por partido:
 Soma dos pesos internos: 300989
 Média dos pesos internos: 1559.53
 
+Média de alinhamento da comunidade: 90.56%
+
 Deputados da comunidade:
-- deputado_204400 | Aline Sleutjes (UNIÃO-PR)
-- deputado_204545 | Alê Silva (REPUBLICANOS-MG)
-- deputado_204374 | Bia Kicis (PL-DF)
-- deputado_204388 | Bibo Nunes (PL-RS)
-- deputado_204531 | Capitão Derrite (PL-SP)
-- deputado_204507 | Carla Zambelli (PL-SP)
-- deputado_204460 | Carlos Jordy (PL-RJ)
-- deputado_204369 | Caroline de Toni (PL-SC)
-- deputado_204376 | Coronel Armando (PL-SC)
-- deputado_204378 | Coronel Chrisóstomo (PL-RO)
-- deputado_204367 | Daniel Freitas (PL-SC)
-- deputado_204512 | Delegado Marcelo Freitas (UNIÃO-MG)
-- deputado_204368 | Fabio Schiochet (UNIÃO-SC)
-- deputado_204398 | Felipe Francischini (UNIÃO-PR)
-- deputado_204477 | Felício Laterça (PP-RJ)
-- deputado_204484 | General Peternelli (UNIÃO-SP)
-- deputado_204513 | Guiga Peixoto (UNIÃO-SP)
-- deputado_204442 | Gurgel (UNIÃO-RJ)
-- deputado_178910 | Joaquim Passarinho (PL-PA)
-- deputado_204520 | Junio Amaral (PL-MG)
-- deputado_204497 | Júnior Ferrari (PSD-PA)
-- deputado_204452 | Márcio Labre (PL-RJ)
-- deputado_204479 | Nicoletti (UNIÃO-RR)
-- deputado_204366 | Rodrigo Coelho (PODE-SC)
-- deputado_204416 | Sanderson (PL-RS)
-- deputado_204387 | Sargento Fahur (PSD-PR)
+- Aline Sleutjes (UNIÃO-PR) | Alinhado: 91.3%
+- Alê Silva (REPUBLICANOS-MG) | Alinhado: 90.2%
+- Bia Kicis (PL-DF) | Alinhado: 89.7%
+- Bibo Nunes (PL-RS) | Alinhado: 91.9%
+- Capitão Derrite (PL-SP) | Alinhado: 89.1%
+- Carla Zambelli (PL-SP) | Alinhado: 88.7%
+- Carlos Jordy (PL-RJ) | Alinhado: 90.9%
+- Caroline de Toni (PL-SC) | Alinhado: 88.0%
+- Coronel Armando (PL-SC) | Alinhado: 92.6%
+- Coronel Chrisóstomo (PL-RO) | Alinhado: 92.1%
+- Daniel Freitas (PL-SC) | Alinhado: 89.8%
+- Delegado Marcelo Freitas (UNIÃO-MG) | Alinhado: 93.1%
+- Fabio Schiochet (UNIÃO-SC) | Alinhado: 93.4%
+- Felipe Francischini (UNIÃO-PR) | Alinhado: 92.8%
+- Felício Laterça (PP-RJ) | Alinhado: 91.5%
+- General Peternelli (UNIÃO-SP) | Alinhado: 91.9%
+- Guiga Peixoto (UNIÃO-SP) | Alinhado: 87.4%
+- Gurgel (UNIÃO-RJ) | Alinhado: 93.1%
+- Joaquim Passarinho (PL-PA) | Alinhado: 90.9%
+- Junio Amaral (PL-MG) | Alinhado: 85.7%
+- Júnior Ferrari (PSD-PA) | Alinhado: 92.0%
+- Márcio Labre (PL-RJ) | Alinhado: 92.1%
+- Nicoletti (UNIÃO-RR) | Alinhado: 91.6%
+- Rodrigo Coelho (PODE-SC) | Alinhado: 86.1%
+- Sanderson (PL-RS) | Alinhado: 90.6%
+- Sargento Fahur (PSD-PR) | Alinhado: 88.3%
 
 
 ----------------------------------------
@@ -141,74 +202,25 @@ Representatividade por partido:
 Soma dos pesos internos: 1550
 Média dos pesos internos: 1550.00
 
+Média de alinhamento da comunidade: 41.61%
+
 Deputados da comunidade:
-- deputado_74057 | Alice Portugal (PCdoB-BA)
-- deputado_74848 | Jandira Feghali (PCdoB-RJ)
+- Alice Portugal (PCdoB-BA) | Alinhado: 41.7%
+- Jandira Feghali (PCdoB-RJ) | Alinhado: 41.6%
 
 
 ----------------------------------------
 Comunidade 5
-Tamanho: 46 deputados
+Tamanho: 2 deputados
 Representatividade por partido:
-- REPUBLICANOS: 11 (23.9%)
-- PL: 11 (23.9%)
-- PP: 10 (21.7%)
-- UNIÃO: 4 (8.7%)
-- PSD: 4 (8.7%)
-- PODE: 2 (4.3%)
-- AVANTE: 1 (2.2%)
-- MDB: 1 (2.2%)
-- PSC: 1 (2.2%)
-- SOLIDARIEDADE: 1 (2.2%)
+- PSB: 2 (100.0%)
 
-Soma dos pesos internos: 309042
-Média dos pesos internos: 1560.82
+Soma dos pesos internos: 1512
+Média dos pesos internos: 1512.00
+
+Média de alinhamento da comunidade: 40.87%
 
 Deputados da comunidade:
-- deputado_121948 | Adriano do Baldy (PP-GO)
-- deputado_204356 | Amaro Neto (REPUBLICANOS-ES)
-- deputado_73696 | Angela Amin (PP-SC)
-- deputado_204414 | Aroldo Martins (REPUBLICANOS-PR)
-- deputado_109429 | Benes Leocádio (UNIÃO-RN)
-- deputado_74052 | Bosco Costa (PL-SE)
-- deputado_178829 | Capitão Augusto (PL-SP)
-- deputado_178962 | Carlos Gomes (REPUBLICANOS-RS)
-- deputado_178993 | Carlos Henrique Gaguim (UNIÃO-TO)
-- deputado_204476 | Chiquinho Brazão (AVANTE-RJ)
-- deputado_178928 | Christiane de Souza Yared (PP-PR)
-- deputado_204440 | Christino Aureo (PP-RJ)
-- deputado_204459 | Daniela do Waguinho (UNIÃO-RJ)
-- deputado_204412 | Dr. Zacharias Calil (UNIÃO-GO)
-- deputado_178871 | Evair Vieira de Melo (PP-ES)
-- deputado_204392 | Francisco Jr. (PSD-GO)
-- deputado_115746 | Gelson Azevedo (PL-RJ)
-- deputado_204491 | Gilberto Abramo (REPUBLICANOS-MG)
-- deputado_160673 | Giovani Cherini (PL-RS)
-- deputado_178981 | Herculano Passos (REPUBLICANOS-SP)
-- deputado_204373 | Hélio Costa (PSD-SC)
-- deputado_205550 | Jorge Braz (REPUBLICANOS-RJ)
-- deputado_204386 | Jose Mario Schreiner (MDB-GO)
-- deputado_141459 | João Maia (PL-RN)
-- deputado_204372 | Julio Cesar Ribeiro (REPUBLICANOS-DF)
-- deputado_160534 | Lauriete (PSC-ES)
-- deputado_74585 | Lincoln Portela (PL-MG)
-- deputado_204448 | Luiz Antônio Corrêa (PP-RJ)
-- deputado_204485 | Luiz Carlos Motta (PL-SP)
-- deputado_204418 | Luizão Goulart (SOLIDARIEDADE-PR)
-- deputado_178983 | Marcio Alvino (PL-SP)
-- deputado_204522 | Marco Bertaiolli (PSD-SP)
-- deputado_204540 | Maria Rosas (REPUBLICANOS-SP)
-- deputado_204432 | Marina Santos (REPUBLICANOS-PI)
-- deputado_75431 | Maurício Dziedricki (PODE-RS)
-- deputado_178985 | Miguel Lombardi (PL-SP)
-- deputado_66179 | Norma Ayub (PP-ES)
-- deputado_204422 | Ossesio Silva (REPUBLICANOS-PE)
-- deputado_160558 | Paulo Freire Costa (PL-SP)
-- deputado_204406 | Pedro Westphalen (PP-RS)
-- deputado_204529 | Policial Katia Sastre (PL-SP)
-- deputado_204362 | Ricardo Guidi (PSD-SC)
-- deputado_152610 | Roberto Alves (REPUBLICANOS-SP)
-- deputado_178861 | Ronaldo Carletto (PP-BA)
-- deputado_143084 | Tiago Dimas (PODE-TO)
-- deputado_74459 | Átila Lira (PP-PI)
+- Gervásio Maia (PSB-PB) | Alinhado: 40.4%
+- Vilson da Fetaemg (PSB-MG) | Alinhado: 41.3%
 

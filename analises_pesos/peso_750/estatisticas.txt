@@ -41,138 +41,140 @@ Representatividade por partido:
 Soma dos pesos internos: 8011178
 Média dos pesos internos: 1059.40
 
+Média de alinhamento da comunidade: 43.39%
+
 Deputados da comunidade:
-- deputado_160508 | Afonso Florence (PT-BA)
-- deputado_178835 | Afonso Motta (PDT-RS)
-- deputado_204495 | Airton Faleiro (PT-PA)
-- deputado_204501 | Alencar Santana (PT-SP)
-- deputado_160511 | Alessandro Molon (PSB-RJ)
-- deputado_204544 | Alexandre Frota (PSDB-SP)
-- deputado_204503 | Alexandre Padilha (PT-SP)
-- deputado_74057 | Alice Portugal (PCdoB-BA)
-- deputado_178927 | Aliel Machado (PV-PR)
-- deputado_133439 | André Figueiredo (PDT-CE)
-- deputado_204515 | André Janones (AVANTE-MG)
-- deputado_73433 | Arlindo Chinaglia (PT-SP)
-- deputado_69871 | Bacelar (PV-BA)
-- deputado_73701 | Benedita da Silva (PT-RJ)
-- deputado_141335 | Beto Faro (PT-PA)
-- deputado_204561 | Bira do Pindaré (PSB-MA)
-- deputado_160538 | Bohn Gass (PT-RS)
-- deputado_204352 | Camilo Capiberibe (PSB-AP)
-- deputado_204426 | Carlos Veras (PT-PE)
-- deputado_141398 | Carlos Zarattini (PT-SP)
-- deputado_141439 | Chico D`Angelo (PDT-RJ)
-- deputado_204499 | Cássio Andrade (PSB-PA)
-- deputado_204370 | Célio Moura (PT-TO)
-- deputado_204488 | Célio Studart (PSD-CE)
-- deputado_141411 | Dagoberto Nogueira (PSDB-MS)
-- deputado_74467 | Damião Feliciano (UNIÃO-PB)
-- deputado_74060 | Daniel Almeida (PCdoB-BA)
-- deputado_160528 | Danilo Cabral (PSB-PE)
-- deputado_205548 | David Miranda (PDT-RJ)
-- deputado_204542 | Denis Bezerra (PSB-CE)
-- deputado_204541 | Eduardo Bismarck (PDT-CE)
-- deputado_204389 | Elias Vaz (PSB-GO)
-- deputado_132504 | Enio Verri (PT-PR)
-- deputado_160575 | Erika Kokay (PT-DF)
-- deputado_72442 | Felipe Carreras (PSB-PE)
-- deputado_204407 | Fernanda Melchionna (PSOL-RS)
-- deputado_160598 | Flávia Morais (PDT-GO)
-- deputado_191923 | Flávio Nogueira (PT-PI)
-- deputado_204393 | Frei Anastacio Ribeiro (PT-PB)
-- deputado_68720 | Fábio Henrique (UNIÃO-SE)
-- deputado_160587 | Fábio Trad (PSD-MS)
-- deputado_160666 | Félix Mendonça Júnior (PDT-BA)
-- deputado_204394 | Gervásio Maia (PSB-PB)
-- deputado_152605 | Glauber Braga (PSOL-RJ)
-- deputado_107283 | Gleisi Hoffmann (PT-PR)
-- deputado_74419 | Gonzaga Patriota (PSB-PE)
-- deputado_73460 | Gustavo Fruet (PDT-PR)
-- deputado_178964 | Heitor Schuch (PSB-RS)
-- deputado_178873 | Helder Salomão (PT-ES)
-- deputado_73482 | Henrique Fontana (PT-RS)
-- deputado_204533 | Idilvan Alencar (PDT-CE)
-- deputado_73531 | Ivan Valente (PSOL-SP)
-- deputado_74848 | Jandira Feghali (PCdoB-RJ)
-- deputado_204435 | Jesus Sérgio (PDT-AC)
-- deputado_204468 | Joenia Wapichana (REDE-RR)
-- deputado_178857 | Jorge Solla (PT-BA)
-- deputado_209189 | Joseildo Ramos (PT-BA)
-- deputado_141464 | José Airton Félix Cirilo (PT-CE)
-- deputado_141470 | José Guimarães (PT-CE)
-- deputado_204555 | José Ricardo (PT-AM)
-- deputado_178970 | João Daniel (PT-SE)
-- deputado_73586 | Júlio Delgado (PV-MG)
-- deputado_178825 | Leo de Brito (PT-AC)
-- deputado_74156 | Leonardo Monteiro (PT-MG)
-- deputado_74299 | Leônidas Cristino (PDT-CE)
-- deputado_178931 | Luciano Ducci (PSB-PR)
-- deputado_74784 | Luiza Erundina (PSOL-SP)
-- deputado_178866 | Luizianne Lins (PT-CE)
-- deputado_139285 | Lídice da Mata (PSB-BA)
-- deputado_204433 | Marcelo Calero (PSD-RJ)
-- deputado_76874 | Marcelo Freixo (PSB-RJ)
-- deputado_204558 | Marcelo Nilo (REPUBLICANOS-BA)
-- deputado_160535 | Marcon (PT-RS)
-- deputado_74398 | Maria do Rosário (PT-RS)
-- deputado_204428 | Marília Arraes (PT-PE)
-- deputado_204486 | Mauro Benevides Filho (PDT-CE)
-- deputado_141508 | Mauro Nazif (PSB-RO)
-- deputado_188097 | Merlong Solano (PT-PI)
-- deputado_74158 | Mário Heringer (PDT-MG)
-- deputado_204453 | Natália Bonavides (PT-RN)
-- deputado_178986 | Nilto Tatto (PT-SP)
-- deputado_74159 | Odair Cunha (PT-MG)
-- deputado_178987 | Orlando Silva (PCdoB-SP)
-- deputado_204573 | Otto Alencar Filho (PSD-BA)
-- deputado_160556 | Padre João (PT-MG)
-- deputado_204553 | Pastor Sargento Isidório (AVANTE-BA)
-- deputado_74160 | Patrus Ananias (PT-MG)
-- deputado_204492 | Paulo Guedes (PT-MG)
-- deputado_74400 | Paulo Pimenta (PT-RS)
-- deputado_133968 | Paulo Ramos (PDT-RJ)
-- deputado_141488 | Paulo Teixeira (PT-SP)
-- deputado_171617 | Paulão (PT-AL)
-- deputado_160604 | Pedro Uczai (PT-SC)
-- deputado_73943 | Perpétua Almeida (PCdoB-AC)
-- deputado_73486 | Pompeo de Mattos (PDT-RS)
-- deputado_204383 | Professor Israel Batista (PV-DF)
-- deputado_160641 | Professora Marcivania (PCdoB-AP)
-- deputado_204467 | Professora Rosa Neide (PT-MT)
-- deputado_178951 | Rafael Motta (PSB-RN)
-- deputado_74161 | Reginaldo Lopes (PT-MG)
-- deputado_178925 | Rejane Dias (PT-PI)
-- deputado_73801 | Renildo Calheiros (PCdoB-PE)
-- deputado_204489 | Robério Monteiro (PDT-CE)
-- deputado_204530 | Rodrigo Agostinho (PSB-SP)
-- deputado_204480 | Rogério Correia (PT-MG)
-- deputado_204525 | Rosana Valle (PL-SP)
-- deputado_73466 | Rubens Bueno (CIDADANIA-PR)
-- deputado_74371 | Rubens Otoni (PT-GO)
-- deputado_178887 | Rubens Pereira Júnior (PT-MA)
-- deputado_73604 | Rui Falcão (PT-SP)
-- deputado_204360 | Silvia Cristina (PL-RO)
-- deputado_177282 | Subtenente Gonzaga (PSD-MG)
-- deputado_204535 | Sâmia Bomfim (PSOL-SP)
-- deputado_204534 | Tabata Amaral (PSB-SP)
-- deputado_178922 | Tadeu Alencar (PSB-PE)
-- deputado_204464 | Talíria Petrone (PSOL-RJ)
-- deputado_206231 | Ted Conti (PSB-ES)
-- deputado_160976 | Tiririca (PL-SP)
-- deputado_157130 | Túlio Gadêlha (REDE-PE)
-- deputado_160610 | Valmir Assunção (PT-BA)
-- deputado_74376 | Vander Loubet (PT-MS)
-- deputado_74283 | Vicentinho (PT-SP)
-- deputado_204483 | Vilson da Fetaemg (PSB-MG)
-- deputado_215044 | Vivi Reis (PSOL-PA)
-- deputado_160569 | Waldenor Pereira (PT-BA)
-- deputado_160518 | Weliton Prado (PROS-MG)
-- deputado_74439 | Wolney Queiroz (PDT-PE)
-- deputado_160592 | Zeca Dirceu (PT-PR)
-- deputado_178889 | Zé Carlos (PT-MA)
-- deputado_204559 | Zé Neto (PT-BA)
-- deputado_204509 | Áurea Carolina (PSOL-MG)
+- Afonso Florence (PT-BA) | Alinhado: 38.8%
+- Afonso Motta (PDT-RS) | Alinhado: 50.6%
+- Airton Faleiro (PT-PA) | Alinhado: 39.1%
+- Alencar Santana (PT-SP) | Alinhado: 37.9%
+- Alessandro Molon (PSB-RJ) | Alinhado: 35.3%
+- Alexandre Frota (PSDB-SP) | Alinhado: 52.3%
+- Alexandre Padilha (PT-SP) | Alinhado: 38.8%
+- Alice Portugal (PCdoB-BA) | Alinhado: 41.7%
+- Aliel Machado (PV-PR) | Alinhado: 43.5%
+- André Figueiredo (PDT-CE) | Alinhado: 47.0%
+- André Janones (AVANTE-MG) | Alinhado: 52.6%
+- Arlindo Chinaglia (PT-SP) | Alinhado: 37.6%
+- Bacelar (PV-BA) | Alinhado: 37.2%
+- Benedita da Silva (PT-RJ) | Alinhado: 38.6%
+- Beto Faro (PT-PA) | Alinhado: 38.4%
+- Bira do Pindaré (PSB-MA) | Alinhado: 38.9%
+- Bohn Gass (PT-RS) | Alinhado: 38.2%
+- Camilo Capiberibe (PSB-AP) | Alinhado: 39.3%
+- Carlos Veras (PT-PE) | Alinhado: 38.3%
+- Carlos Zarattini (PT-SP) | Alinhado: 39.3%
+- Chico D`Angelo (PDT-RJ) | Alinhado: 45.3%
+- Cássio Andrade (PSB-PA) | Alinhado: 58.9%
+- Célio Moura (PT-TO) | Alinhado: 38.2%
+- Célio Studart (PSD-CE) | Alinhado: 46.9%
+- Dagoberto Nogueira (PSDB-MS) | Alinhado: 48.0%
+- Damião Feliciano (UNIÃO-PB) | Alinhado: 54.1%
+- Daniel Almeida (PCdoB-BA) | Alinhado: 41.6%
+- Danilo Cabral (PSB-PE) | Alinhado: 42.1%
+- David Miranda (PDT-RJ) | Alinhado: 29.7%
+- Denis Bezerra (PSB-CE) | Alinhado: 42.5%
+- Eduardo Bismarck (PDT-CE) | Alinhado: 54.3%
+- Elias Vaz (PSB-GO) | Alinhado: 38.0%
+- Enio Verri (PT-PR) | Alinhado: 38.4%
+- Erika Kokay (PT-DF) | Alinhado: 34.5%
+- Felipe Carreras (PSB-PE) | Alinhado: 64.1%
+- Fernanda Melchionna (PSOL-RS) | Alinhado: 26.8%
+- Flávia Morais (PDT-GO) | Alinhado: 50.7%
+- Flávio Nogueira (PT-PI) | Alinhado: 76.4%
+- Frei Anastacio Ribeiro (PT-PB) | Alinhado: 38.1%
+- Fábio Henrique (UNIÃO-SE) | Alinhado: 64.3%
+- Fábio Trad (PSD-MS) | Alinhado: 73.7%
+- Félix Mendonça Júnior (PDT-BA) | Alinhado: 52.5%
+- Gervásio Maia (PSB-PB) | Alinhado: 40.4%
+- Glauber Braga (PSOL-RJ) | Alinhado: 27.0%
+- Gleisi Hoffmann (PT-PR) | Alinhado: 34.7%
+- Gonzaga Patriota (PSB-PE) | Alinhado: 42.0%
+- Gustavo Fruet (PDT-PR) | Alinhado: 52.6%
+- Heitor Schuch (PSB-RS) | Alinhado: 42.4%
+- Helder Salomão (PT-ES) | Alinhado: 37.9%
+- Henrique Fontana (PT-RS) | Alinhado: 37.5%
+- Idilvan Alencar (PDT-CE) | Alinhado: 41.6%
+- Ivan Valente (PSOL-SP) | Alinhado: 27.4%
+- Jandira Feghali (PCdoB-RJ) | Alinhado: 41.6%
+- Jesus Sérgio (PDT-AC) | Alinhado: 50.6%
+- Joenia Wapichana (REDE-RR) | Alinhado: 38.2%
+- Jorge Solla (PT-BA) | Alinhado: 37.8%
+- Joseildo Ramos (PT-BA) | Alinhado: 38.2%
+- José Airton Félix Cirilo (PT-CE) | Alinhado: 39.2%
+- José Guimarães (PT-CE) | Alinhado: 39.3%
+- José Ricardo (PT-AM) | Alinhado: 38.2%
+- João Daniel (PT-SE) | Alinhado: 38.3%
+- Júlio Delgado (PV-MG) | Alinhado: 43.5%
+- Leo de Brito (PT-AC) | Alinhado: 37.9%
+- Leonardo Monteiro (PT-MG) | Alinhado: 38.5%
+- Leônidas Cristino (PDT-CE) | Alinhado: 46.7%
+- Luciano Ducci (PSB-PR) | Alinhado: 65.8%
+- Luiza Erundina (PSOL-SP) | Alinhado: 28.4%
+- Luizianne Lins (PT-CE) | Alinhado: 38.4%
+- Lídice da Mata (PSB-BA) | Alinhado: 40.0%
+- Marcelo Calero (PSD-RJ) | Alinhado: 69.6%
+- Marcelo Freixo (PSB-RJ) | Alinhado: 35.8%
+- Marcelo Nilo (REPUBLICANOS-BA) | Alinhado: 53.0%
+- Marcon (PT-RS) | Alinhado: 37.8%
+- Maria do Rosário (PT-RS) | Alinhado: 37.8%
+- Marília Arraes (PT-PE) | Alinhado: 37.8%
+- Mauro Benevides Filho (PDT-CE) | Alinhado: 51.0%
+- Mauro Nazif (PSB-RO) | Alinhado: 43.9%
+- Merlong Solano (PT-PI) | Alinhado: 39.2%
+- Mário Heringer (PDT-MG) | Alinhado: 48.2%
+- Natália Bonavides (PT-RN) | Alinhado: 36.5%
+- Nilto Tatto (PT-SP) | Alinhado: 38.5%
+- Odair Cunha (PT-MG) | Alinhado: 38.6%
+- Orlando Silva (PCdoB-SP) | Alinhado: 41.9%
+- Otto Alencar Filho (PSD-BA) | Alinhado: 80.4%
+- Padre João (PT-MG) | Alinhado: 38.4%
+- Pastor Sargento Isidório (AVANTE-BA) | Alinhado: 51.4%
+- Patrus Ananias (PT-MG) | Alinhado: 36.2%
+- Paulo Guedes (PT-MG) | Alinhado: 38.8%
+- Paulo Pimenta (PT-RS) | Alinhado: 37.6%
+- Paulo Ramos (PDT-RJ) | Alinhado: 45.3%
+- Paulo Teixeira (PT-SP) | Alinhado: 37.8%
+- Paulão (PT-AL) | Alinhado: 38.0%
+- Pedro Uczai (PT-SC) | Alinhado: 36.5%
+- Perpétua Almeida (PCdoB-AC) | Alinhado: 42.2%
+- Pompeo de Mattos (PDT-RS) | Alinhado: 48.4%
+- Professor Israel Batista (PV-DF) | Alinhado: 41.1%
+- Professora Marcivania (PCdoB-AP) | Alinhado: 40.9%
+- Professora Rosa Neide (PT-MT) | Alinhado: 38.7%
+- Rafael Motta (PSB-RN) | Alinhado: 45.1%
+- Reginaldo Lopes (PT-MG) | Alinhado: 39.0%
+- Rejane Dias (PT-PI) | Alinhado: 39.4%
+- Renildo Calheiros (PCdoB-PE) | Alinhado: 42.3%
+- Robério Monteiro (PDT-CE) | Alinhado: 53.4%
+- Rodrigo Agostinho (PSB-SP) | Alinhado: 43.8%
+- Rogério Correia (PT-MG) | Alinhado: 37.4%
+- Rosana Valle (PL-SP) | Alinhado: 67.0%
+- Rubens Bueno (CIDADANIA-PR) | Alinhado: 74.7%
+- Rubens Otoni (PT-GO) | Alinhado: 39.0%
+- Rubens Pereira Júnior (PT-MA) | Alinhado: 42.8%
+- Rui Falcão (PT-SP) | Alinhado: 37.7%
+- Silvia Cristina (PL-RO) | Alinhado: 64.9%
+- Subtenente Gonzaga (PSD-MG) | Alinhado: 56.1%
+- Sâmia Bomfim (PSOL-SP) | Alinhado: 28.4%
+- Tabata Amaral (PSB-SP) | Alinhado: 47.6%
+- Tadeu Alencar (PSB-PE) | Alinhado: 40.4%
+- Talíria Petrone (PSOL-RJ) | Alinhado: 28.8%
+- Ted Conti (PSB-ES) | Alinhado: 48.3%
+- Tiririca (PL-SP) | Alinhado: 66.4%
+- Túlio Gadêlha (REDE-PE) | Alinhado: 34.5%
+- Valmir Assunção (PT-BA) | Alinhado: 38.5%
+- Vander Loubet (PT-MS) | Alinhado: 38.8%
+- Vicentinho (PT-SP) | Alinhado: 38.4%
+- Vilson da Fetaemg (PSB-MG) | Alinhado: 41.3%
+- Vivi Reis (PSOL-PA) | Alinhado: 27.8%
+- Waldenor Pereira (PT-BA) | Alinhado: 36.9%
+- Weliton Prado (PROS-MG) | Alinhado: 68.5%
+- Wolney Queiroz (PDT-PE) | Alinhado: 46.9%
+- Zeca Dirceu (PT-PR) | Alinhado: 37.5%
+- Zé Carlos (PT-MA) | Alinhado: 37.4%
+- Zé Neto (PT-BA) | Alinhado: 39.4%
+- Áurea Carolina (PSOL-MG) | Alinhado: 27.8%
 
 
 ----------------------------------------
@@ -201,369 +203,371 @@ Representatividade por partido:
 Soma dos pesos internos: 57091476
 Média dos pesos internos: 1049.28
 
+Média de alinhamento da comunidade: 90.85%
+
 Deputados da comunidade:
-- deputado_204549 | AJ Albuquerque (PP-CE)
-- deputado_204521 | Abou Anni (UNIÃO-SP)
-- deputado_204554 | Abílio Santana (PL-BA)
-- deputado_204379 | Acácio Favacho (PROS-AP)
-- deputado_204560 | Adolfo Viana (PSDB-BA)
-- deputado_204528 | Adriana Ventura (NOVO-SP)
-- deputado_121948 | Adriano do Baldy (PP-GO)
-- deputado_141372 | Aelton Freitas (PP-MG)
-- deputado_136811 | Afonso Hamm (PP-RS)
-- deputado_160527 | Aguinaldo Ribeiro (PP-PB)
-- deputado_178836 | Alan Rick (UNIÃO-AC)
-- deputado_160559 | Alceu Moreira (MDB-RS)
-- deputado_204413 | Alcides Rodrigues (PATRIOTA-GO)
-- deputado_178972 | Alex Manente (CIDADANIA-SP)
-- deputado_204571 | Alex Santana (REPUBLICANOS-BA)
-- deputado_160545 | Alexandre Leite (UNIÃO-SP)
-- deputado_204516 | Alexis Fonteyne (NOVO-SP)
-- deputado_204353 | Aline Gurgel (REPUBLICANOS-AP)
-- deputado_204400 | Aline Sleutjes (UNIÃO-PR)
-- deputado_178937 | Altineu Côrtes (PL-RJ)
-- deputado_178881 | Aluisio Mendes (PSC-MA)
-- deputado_204545 | Alê Silva (REPUBLICANOS-MG)
-- deputado_204356 | Amaro Neto (REPUBLICANOS-ES)
-- deputado_178831 | André Abdon (PP-AP)
-- deputado_204423 | André Ferreira (PSC-PE)
-- deputado_74471 | André de Paula (PSD-PE)
-- deputado_73696 | Angela Amin (PP-SC)
-- deputado_160553 | Antonio Brito (PSD-BA)
-- deputado_141391 | Arnaldo Jardim (CIDADANIA-SP)
-- deputado_204414 | Aroldo Martins (REPUBLICANOS-PR)
-- deputado_160600 | Arthur Oliveira Maia (UNIÃO-BA)
-- deputado_160665 | Augusto Coutinho (REPUBLICANOS-PE)
-- deputado_160512 | Aureo Ribeiro (SOLIDARIEDADE-RJ)
-- deputado_74646 | Aécio Neves (PSDB-MG)
-- deputado_178975 | Baleia Rossi (MDB-SP)
-- deputado_109429 | Benes Leocádio (UNIÃO-RN)
-- deputado_204358 | Beto Pereira (PSDB-MS)
-- deputado_178948 | Beto Rosado (PP-RN)
-- deputado_207176 | Bia Cavassa (PSDB-MS)
-- deputado_204374 | Bia Kicis (PL-DF)
-- deputado_204388 | Bibo Nunes (PL-RS)
-- deputado_141513 | Bilac Pinto (UNIÃO-MG)
-- deputado_74052 | Bosco Costa (PL-SE)
-- deputado_204551 | Bosco Saraiva (SOLIDARIEDADE-AM)
-- deputado_204502 | Bozzella (UNIÃO-SP)
-- deputado_160589 | Bruna Furlan (PSDB-SP)
-- deputado_93083 | Cacá Leão (PP-BA)
-- deputado_204572 | Capitão Alberto Neto (PL-AM)
-- deputado_178829 | Capitão Augusto (PL-SP)
-- deputado_204531 | Capitão Derrite (PL-SP)
-- deputado_178924 | Capitão Fábio Abreu (PSD-PI)
-- deputado_204487 | Capitão Wagner (UNIÃO-CE)
-- deputado_213762 | Carla Dickson (PROS-RN)
-- deputado_204507 | Carla Zambelli (PL-SP)
-- deputado_204361 | Carlos Chiodini (MDB-SC)
-- deputado_178962 | Carlos Gomes (REPUBLICANOS-RS)
-- deputado_178993 | Carlos Henrique Gaguim (UNIÃO-TO)
-- deputado_204460 | Carlos Jordy (PL-RJ)
-- deputado_74262 | Carlos Sampaio (PSDB-SP)
-- deputado_164360 | Carmen Zanotto (CIDADANIA-SC)
-- deputado_204369 | Caroline de Toni (PL-SC)
-- deputado_204380 | Celina Leão (PP-DF)
-- deputado_141405 | Celso Maldaner (MDB-SC)
-- deputado_73441 | Celso Russomanno (REPUBLICANOS-SP)
-- deputado_204496 | Celso Sabino (UNIÃO-PA)
-- deputado_204504 | Cezinha de Madureira (PSD-SP)
-- deputado_205476 | Charles Fernandes (PSD-BA)
-- deputado_204490 | Charlles Evangelista (PP-MG)
-- deputado_204476 | Chiquinho Brazão (AVANTE-RJ)
-- deputado_204462 | Chris Tonietto (PL-RJ)
-- deputado_178928 | Christiane de Souza Yared (PP-PR)
-- deputado_204440 | Christino Aureo (PP-RJ)
-- deputado_178939 | Clarissa Garotinho (UNIÃO-RJ)
-- deputado_74537 | Claudio Cajado (PP-BA)
-- deputado_141408 | Cleber Verde (REPUBLICANOS-MA)
-- deputado_204376 | Coronel Armando (PL-SC)
-- deputado_204378 | Coronel Chrisóstomo (PL-RO)
-- deputado_204514 | Coronel Tadeu (PL-SP)
-- deputado_178963 | Covatti Filho (PP-RS)
-- deputado_135054 | Cristiano Vale (PP-PA)
-- deputado_178876 | Célio Silveira (MDB-GO)
-- deputado_204355 | Da Vitória (PP-ES)
-- deputado_178916 | Daniel Coelho (CIDADANIA-PE)
-- deputado_204367 | Daniel Freitas (PL-SC)
-- deputado_204454 | Daniel Silveira (PTB-RJ)
-- deputado_204409 | Daniel Trzeciak (PSDB-RS)
-- deputado_204459 | Daniela do Waguinho (UNIÃO-RJ)
-- deputado_116379 | Darci de Matos (PSD-SC)
-- deputado_204511 | David Soares (UNIÃO-SP)
-- deputado_204451 | Delegado Antônio Furtado (UNIÃO-RJ)
-- deputado_204512 | Delegado Marcelo Freitas (UNIÃO-MG)
-- deputado_204569 | Delegado Pablo (UNIÃO-AM)
-- deputado_164359 | Delegado Waldir (UNIÃO-GO)
-- deputado_178908 | Delegado Éder Mauro (PL-PA)
-- deputado_160588 | Diego Andrade (PSD-MG)
-- deputado_178929 | Diego Garcia (REPUBLICANOS-PR)
-- deputado_160599 | Dimas Fabiano (PP-MG)
-- deputado_143632 | Domingos Neto (PSD-CE)
-- deputado_160758 | Domingos Sávio (PL-MG)
-- deputado_204450 | Doutor Luizinho (PP-RJ)
-- deputado_204518 | Dr. Frederico (PATRIOTA-MG)
-- deputado_204481 | Dr. Jaziel (PL-CE)
-- deputado_204439 | Dr. Leonardo (REPUBLICANOS-MT)
-- deputado_204351 | Dr. Luiz Ovando (PP-MS)
-- deputado_204412 | Dr. Zacharias Calil (UNIÃO-GO)
-- deputado_81297 | Dra. Soraya Manato (PTB-ES)
-- deputado_204434 | Dra. Vanda Milani (SOLIDARIEDADE-AC)
-- deputado_178994 | Dulce Miranda (MDB-TO)
-- deputado_204562 | Edilázio Júnior (PSD-MA)
-- deputado_141417 | Edio Lopes (PL-RR)
-- deputado_204421 | Edna Henrique (REPUBLICANOS-PB)
-- deputado_74655 | Eduardo Barbosa (PSDB-MG)
-- deputado_92346 | Eduardo Bolsonaro (PL-SP)
-- deputado_204500 | Eduardo Costa (PSD-PA)
-- deputado_178977 | Eduardo Cury (PSDB-SP)
-- deputado_141421 | Eduardo da Fonte (PP-PE)
-- deputado_74075 | Elcione Barbalho (MDB-PA)
-- deputado_204364 | Eli Borges (PL-TO)
-- deputado_160532 | Eli Corrêa Filho (UNIÃO-SP)
-- deputado_178854 | Elmar Nascimento (UNIÃO-BA)
-- deputado_198783 | Emanuel Pinheiro Neto (MDB-MT)
-- deputado_161550 | Emidinho Madeira (PL-MG)
-- deputado_204537 | Enrico Misasi (MDB-SP)
-- deputado_160640 | Eros Biondini (PL-MG)
-- deputado_204482 | Euclydes Pettersen (PSC-MG)
-- deputado_178871 | Evair Vieira de Melo (PP-ES)
-- deputado_178953 | Expedito Netto (PSD-RO)
-- deputado_171623 | Fabio Reis (PSD-SE)
-- deputado_204368 | Fabio Schiochet (UNIÃO-SC)
-- deputado_66828 | Fausto Pinato (PP-SP)
-- deputado_204398 | Felipe Francischini (UNIÃO-PR)
-- deputado_204371 | Felipe Rigoni (UNIÃO-ES)
-- deputado_204477 | Felício Laterça (PP-RJ)
-- deputado_141431 | Fernando Coelho Filho (UNIÃO-PE)
-- deputado_92699 | Fernando Monteiro (PP-PE)
-- deputado_204427 | Fernando Rodolfo (PL-PE)
-- deputado_204411 | Filipe Barros (PL-PR)
-- deputado_141434 | Flaviano Melo (MDB-AC)
-- deputado_204447 | Flordelis (PSD-RJ)
-- deputado_204392 | Francisco Jr. (PSD-GO)
-- deputado_204510 | Franco Cartafina (PP-MG)
-- deputado_204494 | Fred Costa (PATRIOTA-MG)
-- deputado_178969 | Fábio Mitidieri (PSD-SE)
-- deputado_141427 | Fábio Ramalho (MDB-MG)
-- deputado_74200 | Gastão Vieira (PROS-MA)
-- deputado_115746 | Gelson Azevedo (PL-RJ)
-- deputado_160669 | Genecias Noronha (PL-CE)
-- deputado_204473 | General Girão (PL-RN)
-- deputado_204484 | General Peternelli (UNIÃO-SP)
-- deputado_204527 | Geninho Zuliani (UNIÃO-SP)
-- deputado_178966 | Geovania de Sá (PSDB-SC)
-- deputado_74383 | Giacobo (PL-PR)
-- deputado_204575 | Gil Cutrim (REPUBLICANOS-MA)
-- deputado_204491 | Gilberto Abramo (REPUBLICANOS-MG)
-- deputado_204365 | Gilson Marques (NOVO-SC)
-- deputado_160673 | Giovani Cherini (PL-RS)
-- deputado_178996 | Giovani Feltes (MDB-RS)
-- deputado_204419 | Glaustin da Fokus (PSC-GO)
-- deputado_198197 | Greyce Elias (AVANTE-MG)
-- deputado_204513 | Guiga Peixoto (UNIÃO-SP)
-- deputado_160667 | Guilherme Mussi (PP-SP)
-- deputado_204442 | Gurgel (UNIÃO-RJ)
-- deputado_204408 | Gustinho Ribeiro (REPUBLICANOS-SE)
-- deputado_204456 | Gutemberg Reis (MDB-RJ)
-- deputado_204465 | Haroldo Cathedral (PSD-RR)
-- deputado_204548 | Heitor Freire (UNIÃO-CE)
-- deputado_204444 | Helio Lopes (PL-RJ)
-- deputado_178981 | Herculano Passos (REPUBLICANOS-SP)
-- deputado_204539 | Hercílio Coelho Diniz (MDB-MG)
-- deputado_73772 | Hermes Parcianello (MDB-PR)
-- deputado_178884 | Hildo Rocha (MDB-MA)
-- deputado_178959 | Hiran Gonçalves (PP-RR)
-- deputado_141450 | Hugo Leal (PSD-RJ)
-- deputado_160674 | Hugo Motta (REPUBLICANOS-PB)
-- deputado_204373 | Hélio Costa (PSD-SC)
-- deputado_178909 | Hélio Leite (UNIÃO-PA)
-- deputado_204564 | Igor Kannário (UNIÃO-BA)
-- deputado_204508 | Igor Timo (PODE-MG)
-- deputado_67138 | Iracema Portella (PP-PI)
-- deputado_204436 | Isnaldo Bulhões Jr. (MDB-AL)
-- deputado_108338 | Jaqueline Cassol (PP-RO)
-- deputado_74273 | Jefferson Campos (PL-SP)
-- deputado_160570 | Jerônimo Goergen (PP-RS)
-- deputado_160531 | Jhonatan de Jesus (REPUBLICANOS-RR)
-- deputado_178910 | Joaquim Passarinho (PL-PA)
-- deputado_204546 | Joice Hasselmann (PSDB-SP)
-- deputado_205550 | Jorge Braz (REPUBLICANOS-RJ)
-- deputado_204386 | Jose Mario Schreiner (MDB-GO)
-- deputado_204563 | Josimar Maranhãozinho (PL-MA)
-- deputado_215043 | Josivaldo JP (PSD-MA)
-- deputado_204472 | José Medeiros (PL-MT)
-- deputado_204391 | José Nelto (PP-GO)
-- deputado_160619 | José Nunes (PSD-BA)
-- deputado_74554 | José Rocha (UNIÃO-BA)
-- deputado_74366 | João Campos (REPUBLICANOS-GO)
-- deputado_141458 | João Carlos Bacelar (PL-BA)
-- deputado_141459 | João Maia (PL-RN)
-- deputado_112437 | João Marcelo Souza (MDB-MA)
-- deputado_204474 | Juarez Costa (MDB-MT)
-- deputado_204420 | Julian Lemos (UNIÃO-PB)
-- deputado_204372 | Julio Cesar Ribeiro (REPUBLICANOS-DF)
-- deputado_204457 | Juninho do Pneu (UNIÃO-RJ)
-- deputado_204520 | Junio Amaral (PL-MG)
-- deputado_204574 | Junior Lourenço (PL-MA)
-- deputado_178886 | Juscelino Filho (UNIÃO-MA)
-- deputado_178839 | Jéssica Sales (MDB-AC)
-- deputado_74317 | Júlio Cesar (PSD-PI)
-- deputado_204497 | Júnior Ferrari (PSD-PA)
-- deputado_204550 | Júnior Mano (PL-CE)
-- deputado_204536 | Kim Kataguiri (UNIÃO-SP)
-- deputado_151208 | Laercio Oliveira (PP-SE)
-- deputado_98057 | Lafayette de Andrada (REPUBLICANOS-MG)
-- deputado_160534 | Lauriete (PSC-ES)
-- deputado_178832 | Leandre (PSD-PR)
-- deputado_204375 | Leda Sadala (AVANTE-AP)
-- deputado_92102 | Leur Lomanto Júnior (UNIÃO-BA)
-- deputado_74585 | Lincoln Portela (PL-MG)
-- deputado_204405 | Liziane Bayer (REPUBLICANOS-RS)
-- deputado_204382 | Loester Trutis (PL-MS)
-- deputado_196358 | Lourival Gomes (UNIÃO-RJ)
-- deputado_204523 | Lucas Gonzalez (NOVO-MG)
-- deputado_204404 | Lucas Redecker (PSDB-RS)
-- deputado_178879 | Lucas Vergilio (SOLIDARIEDADE-GO)
-- deputado_178954 | Lucio Mosquini (MDB-RO)
-- deputado_204381 | Luis Miranda (REPUBLICANOS-DF)
-- deputado_160510 | Luis Tibé (AVANTE-MG)
-- deputado_204410 | Luisa Canziani (PSD-PR)
-- deputado_204448 | Luiz Antônio Corrêa (PP-RJ)
-- deputado_160645 | Luiz Carlos (PSDB-AP)
-- deputado_204485 | Luiz Carlos Motta (PL-SP)
-- deputado_204455 | Luiz Lima (PL-RJ)
-- deputado_162332 | Luiz Nishimori (PSD-PR)
-- deputado_204526 | Luiz Philippe de Orleans e Bragança (PL-SP)
-- deputado_204418 | Luizão Goulart (SOLIDARIEDADE-PR)
-- deputado_204359 | Léo Moraes (PODE-RO)
-- deputado_204547 | Léo Motta (REPUBLICANOS-MG)
-- deputado_166402 | Magda Mofatto (PL-GO)
-- deputado_204458 | Major Fabiana (PL-RJ)
-- deputado_179587 | Major Vitor Hugo (PL-GO)
-- deputado_204471 | Mara Rocha (MDB-AC)
-- deputado_156190 | Marcel van Hattem (NOVO-RS)
-- deputado_146788 | Marcelo Aro (PP-MG)
-- deputado_205863 | Marcelo Brum (PSL-RS)
-- deputado_133810 | Marcelo Moraes (PL-RS)
-- deputado_204556 | Marcelo Ramos (PSD-AM)
-- deputado_179000 | Marcelo Álvaro Antônio (PL-MG)
-- deputado_178983 | Marcio Alvino (PL-SP)
-- deputado_204522 | Marco Bertaiolli (PSD-SP)
-- deputado_204431 | Marcos Aurélio Sampaio (PSD-PI)
-- deputado_204506 | Marcos Pereira (REPUBLICANOS-SP)
-- deputado_204430 | Margarete Coelho (PP-PI)
-- deputado_204540 | Maria Rosas (REPUBLICANOS-SP)
-- deputado_178956 | Mariana Carvalho (PSDB-RO)
-- deputado_204432 | Marina Santos (REPUBLICANOS-PI)
-- deputado_204403 | Marlon Santos (PL-RS)
-- deputado_204566 | Marreca Filho (PATRIOTA-MA)
-- deputado_178843 | Marx Beltrão (PP-AL)
-- deputado_74749 | Mauro Lopes (PP-MG)
-- deputado_75431 | Maurício Dziedricki (PODE-RS)
-- deputado_178985 | Miguel Lombardi (PL-SP)
-- deputado_154178 | Milton Vieira (REPUBLICANOS-SP)
-- deputado_178895 | Misael Varella (PSD-MG)
-- deputado_178997 | Moses Rodrigues (MDB-CE)
-- deputado_179001 | Márcio Biolchi (MDB-RS)
-- deputado_204452 | Márcio Labre (PL-RJ)
-- deputado_150418 | Márcio Marinho (REPUBLICANOS-BA)
-- deputado_178858 | Mário Negromonte Jr. (PP-BA)
-- deputado_204449 | Nelson Barbudo (PL-MT)
-- deputado_204415 | Nereu Crispim (PSD-RS)
-- deputado_146307 | Neri Geller (PP-MT)
-- deputado_74165 | Neucimar Fraga (PP-ES)
-- deputado_178896 | Newton Cardoso Jr (MDB-MG)
-- deputado_204479 | Nicoletti (UNIÃO-RR)
-- deputado_74352 | Nilson Pinto (PSDB-PA)
-- deputado_194260 | Nivaldo Albuquerque (REPUBLICANOS-AL)
-- deputado_66179 | Norma Ayub (PP-ES)
-- deputado_204498 | Olival Marques (MDB-PA)
-- deputado_204363 | Osires Damaso (PSC-TO)
-- deputado_73692 | Osmar Terra (MDB-RS)
-- deputado_204422 | Ossesio Silva (REPUBLICANOS-PE)
-- deputado_204441 | Otoni de Paula (MDB-RJ)
-- deputado_204475 | Ottaci Nascimento (SOLIDARIEDADE-RR)
-- deputado_160642 | Pastor Eurico (PL-PE)
-- deputado_204570 | Pastor Gil (PL-MA)
-- deputado_204377 | Paula Belmonte (CIDADANIA-DF)
-- deputado_141516 | Paulo Abi-Ackel (PSDB-MG)
-- deputado_178860 | Paulo Azi (UNIÃO-BA)
-- deputado_204538 | Paulo Bengtson (PTB-PA)
-- deputado_193726 | Paulo Eduardo Martins (PL-PR)
-- deputado_160558 | Paulo Freire Costa (PL-SP)
-- deputado_204461 | Paulo Ganime (NOVO-RJ)
-- deputado_74574 | Paulo Magalhães (PSD-BA)
-- deputado_90201 | Pedro Augusto Bezerra (PDT-CE)
-- deputado_215045 | Pedro Augusto Palareti (PP-RJ)
-- deputado_178912 | Pedro Cunha Lima (PSDB-PB)
-- deputado_122974 | Pedro Lucas Fernandes (UNIÃO-MA)
-- deputado_204395 | Pedro Lupion (PP-PR)
-- deputado_178844 | Pedro Vilela (PSDB-AL)
-- deputado_204406 | Pedro Westphalen (PP-RS)
-- deputado_204524 | Pinheirinho (PP-MG)
-- deputado_204529 | Policial Katia Sastre (PL-SP)
-- deputado_160601 | Pr. Marco Feliciano (PL-SP)
-- deputado_204390 | Professor Alcides (PL-GO)
-- deputado_204446 | Professor Joziel (UNIÃO-RJ)
-- deputado_204565 | Professora Dayane Pimentel (UNIÃO-BA)
-- deputado_160639 | Professora Dorinha Seabra Rezende (UNIÃO-TO)
-- deputado_204567 | Raimundo Costa (PODE-BA)
-- deputado_141523 | Raul Henry (MDB-PE)
-- deputado_205865 | Reinhold Stephanes Junior (PSD-PR)
-- deputado_178989 | Renata Abreu (PODE-SP)
-- deputado_73788 | Ricardo Barros (PP-PR)
-- deputado_204362 | Ricardo Guidi (PSD-SC)
-- deputado_160655 | Ricardo Izar (REPUBLICANOS-SP)
-- deputado_213274 | Ricardo Silva (PSD-SP)
-- deputado_178920 | Ricardo Teobaldo (PODE-PE)
-- deputado_215042 | Ricardo da Karol (PSC-RJ)
-- deputado_152610 | Roberto Alves (REPUBLICANOS-SP)
-- deputado_160653 | Roberto de Lucena (REPUBLICANOS-SP)
-- deputado_204366 | Rodrigo Coelho (PODE-SC)
-- deputado_141531 | Rodrigo de Castro (UNIÃO-MG)
-- deputado_160651 | Rogério Peninha Mendonça (MDB-SC)
-- deputado_178930 | Roman (PP-PR)
-- deputado_178861 | Ronaldo Carletto (PP-BA)
-- deputado_178945 | Rosangela Gomes (REPUBLICANOS-RJ)
-- deputado_204357 | Rose Modesto (PSDB-MS)
-- deputado_160635 | Ruy Carneiro (PSDB-PB)
-- deputado_178990 | Samuel Moreira (PSDB-SP)
-- deputado_204416 | Sanderson (PL-RS)
-- deputado_204387 | Sargento Fahur (PSD-PR)
-- deputado_178921 | Sebastião Oliveira (AVANTE-PE)
-- deputado_178933 | Sergio Souza (MDB-PR)
-- deputado_204438 | Sergio Toledo (PL-AL)
-- deputado_204437 | Severino Pessoa (MDB-AL)
-- deputado_178961 | Shéridan (PSDB-RR)
-- deputado_204557 | Sidney Leite (PSD-AM)
-- deputado_74356 | Silas Câmara (REPUBLICANOS-AM)
-- deputado_204425 | Silvio Costa Filho (REPUBLICANOS-PE)
-- deputado_178946 | Soraya Santos (PL-RJ)
-- deputado_92776 | Stefano Aguiar (PSD-MG)
-- deputado_73808 | Sérgio Brito (PSD-BA)
-- deputado_178947 | Sóstenes Cavalcante (PL-RJ)
-- deputado_204466 | Tereza Nelma (PSD-AL)
-- deputado_143084 | Tiago Dimas (PODE-TO)
-- deputado_204519 | Tiago Mitraud (NOVO-MG)
-- deputado_197438 | Tito (AVANTE-BA)
-- deputado_178934 | Toninho Wandscheer (PROS-PR)
-- deputado_178863 | Uldurico Junior (MDB-BA)
-- deputado_195866 | Vaidon Oliveira (PROS-CE)
-- deputado_204385 | Valdevan Noventa (PL-SE)
-- deputado_141553 | Vanderlei Macris (PSDB-SP)
-- deputado_204505 | Vavá Martins (REPUBLICANOS-PA)
-- deputado_204396 | Vermelho (PL-PR)
-- deputado_137070 | Vicentinho Júnior (PP-TO)
-- deputado_141555 | Vinicius Carvalho (REPUBLICANOS-SP)
-- deputado_204478 | Vinicius Farah (MDB-RJ)
-- deputado_160591 | Vinicius Gurgel (PL-AP)
-- deputado_204532 | Vinicius Poit (NOVO-SP)
-- deputado_178992 | Vitor Lippi (PSDB-SP)
-- deputado_178952 | Walter Alves (MDB-RN)
-- deputado_74044 | Wilson Santiago (REPUBLICANOS-PB)
-- deputado_160632 | Zé Silva (SOLIDARIEDADE-MG)
-- deputado_204517 | Zé Vitor (PL-MG)
-- deputado_74090 | Átila Lins (PSD-AM)
-- deputado_74459 | Átila Lira (PP-PI)
+- AJ Albuquerque (PP-CE) | Alinhado: 96.7%
+- Abou Anni (UNIÃO-SP) | Alinhado: 91.9%
+- Abílio Santana (PL-BA) | Alinhado: 95.1%
+- Acácio Favacho (PROS-AP) | Alinhado: 94.9%
+- Adolfo Viana (PSDB-BA) | Alinhado: 94.8%
+- Adriana Ventura (NOVO-SP) | Alinhado: 70.0%
+- Adriano do Baldy (PP-GO) | Alinhado: 97.3%
+- Aelton Freitas (PP-MG) | Alinhado: 96.1%
+- Afonso Hamm (PP-RS) | Alinhado: 93.4%
+- Aguinaldo Ribeiro (PP-PB) | Alinhado: 95.4%
+- Alan Rick (UNIÃO-AC) | Alinhado: 92.5%
+- Alceu Moreira (MDB-RS) | Alinhado: 91.8%
+- Alcides Rodrigues (PATRIOTA-GO) | Alinhado: 94.6%
+- Alex Manente (CIDADANIA-SP) | Alinhado: 82.4%
+- Alex Santana (REPUBLICANOS-BA) | Alinhado: 83.4%
+- Alexandre Leite (UNIÃO-SP) | Alinhado: 95.6%
+- Alexis Fonteyne (NOVO-SP) | Alinhado: 69.5%
+- Aline Gurgel (REPUBLICANOS-AP) | Alinhado: 91.9%
+- Aline Sleutjes (UNIÃO-PR) | Alinhado: 91.3%
+- Altineu Côrtes (PL-RJ) | Alinhado: 95.5%
+- Aluisio Mendes (PSC-MA) | Alinhado: 95.7%
+- Alê Silva (REPUBLICANOS-MG) | Alinhado: 90.2%
+- Amaro Neto (REPUBLICANOS-ES) | Alinhado: 95.2%
+- André Abdon (PP-AP) | Alinhado: 97.4%
+- André Ferreira (PSC-PE) | Alinhado: 94.3%
+- André de Paula (PSD-PE) | Alinhado: 90.5%
+- Angela Amin (PP-SC) | Alinhado: 89.9%
+- Antonio Brito (PSD-BA) | Alinhado: 93.7%
+- Arnaldo Jardim (CIDADANIA-SP) | Alinhado: 81.5%
+- Aroldo Martins (REPUBLICANOS-PR) | Alinhado: 95.2%
+- Arthur Oliveira Maia (UNIÃO-BA) | Alinhado: 93.4%
+- Augusto Coutinho (REPUBLICANOS-PE) | Alinhado: 91.8%
+- Aureo Ribeiro (SOLIDARIEDADE-RJ) | Alinhado: 89.1%
+- Aécio Neves (PSDB-MG) | Alinhado: 91.4%
+- Baleia Rossi (MDB-SP) | Alinhado: 92.4%
+- Benes Leocádio (UNIÃO-RN) | Alinhado: 96.4%
+- Beto Pereira (PSDB-MS) | Alinhado: 88.6%
+- Beto Rosado (PP-RN) | Alinhado: 96.9%
+- Bia Cavassa (PSDB-MS) | Alinhado: 87.8%
+- Bia Kicis (PL-DF) | Alinhado: 89.7%
+- Bibo Nunes (PL-RS) | Alinhado: 91.9%
+- Bilac Pinto (UNIÃO-MG) | Alinhado: 95.0%
+- Bosco Costa (PL-SE) | Alinhado: 95.7%
+- Bosco Saraiva (SOLIDARIEDADE-AM) | Alinhado: 92.2%
+- Bozzella (UNIÃO-SP) | Alinhado: 77.4%
+- Bruna Furlan (PSDB-SP) | Alinhado: 79.0%
+- Cacá Leão (PP-BA) | Alinhado: 97.6%
+- Capitão Alberto Neto (PL-AM) | Alinhado: 92.4%
+- Capitão Augusto (PL-SP) | Alinhado: 93.4%
+- Capitão Derrite (PL-SP) | Alinhado: 89.1%
+- Capitão Fábio Abreu (PSD-PI) | Alinhado: 89.7%
+- Capitão Wagner (UNIÃO-CE) | Alinhado: 83.0%
+- Carla Dickson (PROS-RN) | Alinhado: 93.0%
+- Carla Zambelli (PL-SP) | Alinhado: 88.7%
+- Carlos Chiodini (MDB-SC) | Alinhado: 90.8%
+- Carlos Gomes (REPUBLICANOS-RS) | Alinhado: 95.5%
+- Carlos Henrique Gaguim (UNIÃO-TO) | Alinhado: 95.3%
+- Carlos Jordy (PL-RJ) | Alinhado: 90.9%
+- Carlos Sampaio (PSDB-SP) | Alinhado: 81.6%
+- Carmen Zanotto (CIDADANIA-SC) | Alinhado: 81.5%
+- Caroline de Toni (PL-SC) | Alinhado: 88.0%
+- Celina Leão (PP-DF) | Alinhado: 94.2%
+- Celso Maldaner (MDB-SC) | Alinhado: 90.9%
+- Celso Russomanno (REPUBLICANOS-SP) | Alinhado: 94.7%
+- Celso Sabino (UNIÃO-PA) | Alinhado: 95.0%
+- Cezinha de Madureira (PSD-SP) | Alinhado: 95.6%
+- Charles Fernandes (PSD-BA) | Alinhado: 87.5%
+- Charlles Evangelista (PP-MG) | Alinhado: 92.1%
+- Chiquinho Brazão (AVANTE-RJ) | Alinhado: 95.3%
+- Chris Tonietto (PL-RJ) | Alinhado: 86.7%
+- Christiane de Souza Yared (PP-PR) | Alinhado: 93.4%
+- Christino Aureo (PP-RJ) | Alinhado: 96.2%
+- Clarissa Garotinho (UNIÃO-RJ) | Alinhado: 72.6%
+- Claudio Cajado (PP-BA) | Alinhado: 96.5%
+- Cleber Verde (REPUBLICANOS-MA) | Alinhado: 95.9%
+- Coronel Armando (PL-SC) | Alinhado: 92.6%
+- Coronel Chrisóstomo (PL-RO) | Alinhado: 92.1%
+- Coronel Tadeu (PL-SP) | Alinhado: 91.0%
+- Covatti Filho (PP-RS) | Alinhado: 95.9%
+- Cristiano Vale (PP-PA) | Alinhado: 96.6%
+- Célio Silveira (MDB-GO) | Alinhado: 92.4%
+- Da Vitória (PP-ES) | Alinhado: 90.5%
+- Daniel Coelho (CIDADANIA-PE) | Alinhado: 72.8%
+- Daniel Freitas (PL-SC) | Alinhado: 89.8%
+- Daniel Silveira (PTB-RJ) | Alinhado: 91.6%
+- Daniel Trzeciak (PSDB-RS) | Alinhado: 82.5%
+- Daniela do Waguinho (UNIÃO-RJ) | Alinhado: 93.3%
+- Darci de Matos (PSD-SC) | Alinhado: 95.5%
+- David Soares (UNIÃO-SP) | Alinhado: 90.0%
+- Delegado Antônio Furtado (UNIÃO-RJ) | Alinhado: 88.6%
+- Delegado Marcelo Freitas (UNIÃO-MG) | Alinhado: 93.1%
+- Delegado Pablo (UNIÃO-AM) | Alinhado: 93.2%
+- Delegado Waldir (UNIÃO-GO) | Alinhado: 87.1%
+- Delegado Éder Mauro (PL-PA) | Alinhado: 93.9%
+- Diego Andrade (PSD-MG) | Alinhado: 96.8%
+- Diego Garcia (REPUBLICANOS-PR) | Alinhado: 82.6%
+- Dimas Fabiano (PP-MG) | Alinhado: 96.2%
+- Domingos Neto (PSD-CE) | Alinhado: 94.8%
+- Domingos Sávio (PL-MG) | Alinhado: 91.6%
+- Doutor Luizinho (PP-RJ) | Alinhado: 96.0%
+- Dr. Frederico (PATRIOTA-MG) | Alinhado: 92.3%
+- Dr. Jaziel (PL-CE) | Alinhado: 89.8%
+- Dr. Leonardo (REPUBLICANOS-MT) | Alinhado: 90.8%
+- Dr. Luiz Ovando (PP-MS) | Alinhado: 92.8%
+- Dr. Zacharias Calil (UNIÃO-GO) | Alinhado: 93.1%
+- Dra. Soraya Manato (PTB-ES) | Alinhado: 92.2%
+- Dra. Vanda Milani (SOLIDARIEDADE-AC) | Alinhado: 94.8%
+- Dulce Miranda (MDB-TO) | Alinhado: 88.8%
+- Edilázio Júnior (PSD-MA) | Alinhado: 95.9%
+- Edio Lopes (PL-RR) | Alinhado: 96.5%
+- Edna Henrique (REPUBLICANOS-PB) | Alinhado: 86.9%
+- Eduardo Barbosa (PSDB-MG) | Alinhado: 85.5%
+- Eduardo Bolsonaro (PL-SP) | Alinhado: 90.3%
+- Eduardo Costa (PSD-PA) | Alinhado: 93.0%
+- Eduardo Cury (PSDB-SP) | Alinhado: 82.3%
+- Eduardo da Fonte (PP-PE) | Alinhado: 94.0%
+- Elcione Barbalho (MDB-PA) | Alinhado: 84.3%
+- Eli Borges (PL-TO) | Alinhado: 87.0%
+- Eli Corrêa Filho (UNIÃO-SP) | Alinhado: 95.3%
+- Elmar Nascimento (UNIÃO-BA) | Alinhado: 96.3%
+- Emanuel Pinheiro Neto (MDB-MT) | Alinhado: 87.9%
+- Emidinho Madeira (PL-MG) | Alinhado: 89.4%
+- Enrico Misasi (MDB-SP) | Alinhado: 73.8%
+- Eros Biondini (PL-MG) | Alinhado: 92.9%
+- Euclydes Pettersen (PSC-MG) | Alinhado: 93.9%
+- Evair Vieira de Melo (PP-ES) | Alinhado: 94.6%
+- Expedito Netto (PSD-RO) | Alinhado: 80.7%
+- Fabio Reis (PSD-SE) | Alinhado: 95.1%
+- Fabio Schiochet (UNIÃO-SC) | Alinhado: 93.4%
+- Fausto Pinato (PP-SP) | Alinhado: 94.3%
+- Felipe Francischini (UNIÃO-PR) | Alinhado: 92.8%
+- Felipe Rigoni (UNIÃO-ES) | Alinhado: 63.4%
+- Felício Laterça (PP-RJ) | Alinhado: 91.5%
+- Fernando Coelho Filho (UNIÃO-PE) | Alinhado: 95.6%
+- Fernando Monteiro (PP-PE) | Alinhado: 95.8%
+- Fernando Rodolfo (PL-PE) | Alinhado: 84.4%
+- Filipe Barros (PL-PR) | Alinhado: 90.0%
+- Flaviano Melo (MDB-AC) | Alinhado: 93.3%
+- Flordelis (PSD-RJ) | Alinhado: 94.7%
+- Francisco Jr. (PSD-GO) | Alinhado: 94.5%
+- Franco Cartafina (PP-MG) | Alinhado: 92.1%
+- Fred Costa (PATRIOTA-MG) | Alinhado: 91.7%
+- Fábio Mitidieri (PSD-SE) | Alinhado: 84.6%
+- Fábio Ramalho (MDB-MG) | Alinhado: 88.3%
+- Gastão Vieira (PROS-MA) | Alinhado: 83.7%
+- Gelson Azevedo (PL-RJ) | Alinhado: 96.2%
+- Genecias Noronha (PL-CE) | Alinhado: 94.9%
+- General Girão (PL-RN) | Alinhado: 91.1%
+- General Peternelli (UNIÃO-SP) | Alinhado: 91.9%
+- Geninho Zuliani (UNIÃO-SP) | Alinhado: 91.9%
+- Geovania de Sá (PSDB-SC) | Alinhado: 94.9%
+- Giacobo (PL-PR) | Alinhado: 95.5%
+- Gil Cutrim (REPUBLICANOS-MA) | Alinhado: 93.0%
+- Gilberto Abramo (REPUBLICANOS-MG) | Alinhado: 95.5%
+- Gilson Marques (NOVO-SC) | Alinhado: 70.0%
+- Giovani Cherini (PL-RS) | Alinhado: 95.1%
+- Giovani Feltes (MDB-RS) | Alinhado: 90.4%
+- Glaustin da Fokus (PSC-GO) | Alinhado: 93.2%
+- Greyce Elias (AVANTE-MG) | Alinhado: 93.9%
+- Guiga Peixoto (UNIÃO-SP) | Alinhado: 87.4%
+- Guilherme Mussi (PP-SP) | Alinhado: 96.8%
+- Gurgel (UNIÃO-RJ) | Alinhado: 93.1%
+- Gustinho Ribeiro (REPUBLICANOS-SE) | Alinhado: 95.6%
+- Gutemberg Reis (MDB-RJ) | Alinhado: 93.4%
+- Haroldo Cathedral (PSD-RR) | Alinhado: 93.5%
+- Heitor Freire (UNIÃO-CE) | Alinhado: 91.0%
+- Helio Lopes (PL-RJ) | Alinhado: 91.7%
+- Herculano Passos (REPUBLICANOS-SP) | Alinhado: 90.8%
+- Hercílio Coelho Diniz (MDB-MG) | Alinhado: 90.7%
+- Hermes Parcianello (MDB-PR) | Alinhado: 87.7%
+- Hildo Rocha (MDB-MA) | Alinhado: 86.0%
+- Hiran Gonçalves (PP-RR) | Alinhado: 96.0%
+- Hugo Leal (PSD-RJ) | Alinhado: 95.1%
+- Hugo Motta (REPUBLICANOS-PB) | Alinhado: 93.9%
+- Hélio Costa (PSD-SC) | Alinhado: 89.7%
+- Hélio Leite (UNIÃO-PA) | Alinhado: 94.0%
+- Igor Kannário (UNIÃO-BA) | Alinhado: 92.2%
+- Igor Timo (PODE-MG) | Alinhado: 86.9%
+- Iracema Portella (PP-PI) | Alinhado: 95.8%
+- Isnaldo Bulhões Jr. (MDB-AL) | Alinhado: 93.0%
+- Jaqueline Cassol (PP-RO) | Alinhado: 93.8%
+- Jefferson Campos (PL-SP) | Alinhado: 87.5%
+- Jerônimo Goergen (PP-RS) | Alinhado: 92.0%
+- Jhonatan de Jesus (REPUBLICANOS-RR) | Alinhado: 95.4%
+- Joaquim Passarinho (PL-PA) | Alinhado: 90.9%
+- Joice Hasselmann (PSDB-SP) | Alinhado: 78.7%
+- Jorge Braz (REPUBLICANOS-RJ) | Alinhado: 95.5%
+- Jose Mario Schreiner (MDB-GO) | Alinhado: 94.6%
+- Josimar Maranhãozinho (PL-MA) | Alinhado: 95.4%
+- Josivaldo JP (PSD-MA) | Alinhado: 88.4%
+- José Medeiros (PL-MT) | Alinhado: 91.2%
+- José Nelto (PP-GO) | Alinhado: 84.3%
+- José Nunes (PSD-BA) | Alinhado: 94.8%
+- José Rocha (UNIÃO-BA) | Alinhado: 96.7%
+- João Campos (REPUBLICANOS-GO) | Alinhado: 93.3%
+- João Carlos Bacelar (PL-BA) | Alinhado: 95.7%
+- João Maia (PL-RN) | Alinhado: 96.0%
+- João Marcelo Souza (MDB-MA) | Alinhado: 93.0%
+- Juarez Costa (MDB-MT) | Alinhado: 90.2%
+- Julian Lemos (UNIÃO-PB) | Alinhado: 92.8%
+- Julio Cesar Ribeiro (REPUBLICANOS-DF) | Alinhado: 94.6%
+- Juninho do Pneu (UNIÃO-RJ) | Alinhado: 96.6%
+- Junio Amaral (PL-MG) | Alinhado: 85.7%
+- Junior Lourenço (PL-MA) | Alinhado: 97.4%
+- Juscelino Filho (UNIÃO-MA) | Alinhado: 95.2%
+- Jéssica Sales (MDB-AC) | Alinhado: 87.7%
+- Júlio Cesar (PSD-PI) | Alinhado: 96.0%
+- Júnior Ferrari (PSD-PA) | Alinhado: 92.0%
+- Júnior Mano (PL-CE) | Alinhado: 95.7%
+- Kim Kataguiri (UNIÃO-SP) | Alinhado: 69.2%
+- Laercio Oliveira (PP-SE) | Alinhado: 94.4%
+- Lafayette de Andrada (REPUBLICANOS-MG) | Alinhado: 95.0%
+- Lauriete (PSC-ES) | Alinhado: 95.7%
+- Leandre (PSD-PR) | Alinhado: 73.2%
+- Leda Sadala (AVANTE-AP) | Alinhado: 94.0%
+- Leur Lomanto Júnior (UNIÃO-BA) | Alinhado: 95.6%
+- Lincoln Portela (PL-MG) | Alinhado: 94.2%
+- Liziane Bayer (REPUBLICANOS-RS) | Alinhado: 80.9%
+- Loester Trutis (PL-MS) | Alinhado: 91.1%
+- Lourival Gomes (UNIÃO-RJ) | Alinhado: 92.2%
+- Lucas Gonzalez (NOVO-MG) | Alinhado: 69.7%
+- Lucas Redecker (PSDB-RS) | Alinhado: 83.6%
+- Lucas Vergilio (SOLIDARIEDADE-GO) | Alinhado: 90.8%
+- Lucio Mosquini (MDB-RO) | Alinhado: 94.4%
+- Luis Miranda (REPUBLICANOS-DF) | Alinhado: 91.8%
+- Luis Tibé (AVANTE-MG) | Alinhado: 97.0%
+- Luisa Canziani (PSD-PR) | Alinhado: 93.7%
+- Luiz Antônio Corrêa (PP-RJ) | Alinhado: 95.2%
+- Luiz Carlos (PSDB-AP) | Alinhado: 92.9%
+- Luiz Carlos Motta (PL-SP) | Alinhado: 93.6%
+- Luiz Lima (PL-RJ) | Alinhado: 91.4%
+- Luiz Nishimori (PSD-PR) | Alinhado: 95.6%
+- Luiz Philippe de Orleans e Bragança (PL-SP) | Alinhado: 82.2%
+- Luizão Goulart (SOLIDARIEDADE-PR) | Alinhado: 94.8%
+- Léo Moraes (PODE-RO) | Alinhado: 78.5%
+- Léo Motta (REPUBLICANOS-MG) | Alinhado: 92.7%
+- Magda Mofatto (PL-GO) | Alinhado: 95.3%
+- Major Fabiana (PL-RJ) | Alinhado: 91.9%
+- Major Vitor Hugo (PL-GO) | Alinhado: 91.2%
+- Mara Rocha (MDB-AC) | Alinhado: 83.3%
+- Marcel van Hattem (NOVO-RS) | Alinhado: 69.0%
+- Marcelo Aro (PP-MG) | Alinhado: 94.6%
+- Marcelo Brum (PSL-RS) | Alinhado: 91.9%
+- Marcelo Moraes (PL-RS) | Alinhado: 93.0%
+- Marcelo Ramos (PSD-AM) | Alinhado: 90.8%
+- Marcelo Álvaro Antônio (PL-MG) | Alinhado: 91.9%
+- Marcio Alvino (PL-SP) | Alinhado: 95.5%
+- Marco Bertaiolli (PSD-SP) | Alinhado: 93.4%
+- Marcos Aurélio Sampaio (PSD-PI) | Alinhado: 94.0%
+- Marcos Pereira (REPUBLICANOS-SP) | Alinhado: 95.1%
+- Margarete Coelho (PP-PI) | Alinhado: 95.5%
+- Maria Rosas (REPUBLICANOS-SP) | Alinhado: 95.0%
+- Mariana Carvalho (PSDB-RO) | Alinhado: 90.6%
+- Marina Santos (REPUBLICANOS-PI) | Alinhado: 95.2%
+- Marlon Santos (PL-RS) | Alinhado: 90.0%
+- Marreca Filho (PATRIOTA-MA) | Alinhado: 93.1%
+- Marx Beltrão (PP-AL) | Alinhado: 92.7%
+- Mauro Lopes (PP-MG) | Alinhado: 91.9%
+- Maurício Dziedricki (PODE-RS) | Alinhado: 93.3%
+- Miguel Lombardi (PL-SP) | Alinhado: 94.4%
+- Milton Vieira (REPUBLICANOS-SP) | Alinhado: 94.6%
+- Misael Varella (PSD-MG) | Alinhado: 94.5%
+- Moses Rodrigues (MDB-CE) | Alinhado: 92.3%
+- Márcio Biolchi (MDB-RS) | Alinhado: 90.7%
+- Márcio Labre (PL-RJ) | Alinhado: 92.1%
+- Márcio Marinho (REPUBLICANOS-BA) | Alinhado: 94.9%
+- Mário Negromonte Jr. (PP-BA) | Alinhado: 93.3%
+- Nelson Barbudo (PL-MT) | Alinhado: 92.3%
+- Nereu Crispim (PSD-RS) | Alinhado: 92.1%
+- Neri Geller (PP-MT) | Alinhado: 96.6%
+- Neucimar Fraga (PP-ES) | Alinhado: 92.9%
+- Newton Cardoso Jr (MDB-MG) | Alinhado: 88.8%
+- Nicoletti (UNIÃO-RR) | Alinhado: 91.6%
+- Nilson Pinto (PSDB-PA) | Alinhado: 90.5%
+- Nivaldo Albuquerque (REPUBLICANOS-AL) | Alinhado: 94.1%
+- Norma Ayub (PP-ES) | Alinhado: 90.9%
+- Olival Marques (MDB-PA) | Alinhado: 95.2%
+- Osires Damaso (PSC-TO) | Alinhado: 93.1%
+- Osmar Terra (MDB-RS) | Alinhado: 92.1%
+- Ossesio Silva (REPUBLICANOS-PE) | Alinhado: 95.3%
+- Otoni de Paula (MDB-RJ) | Alinhado: 90.4%
+- Ottaci Nascimento (SOLIDARIEDADE-RR) | Alinhado: 95.1%
+- Pastor Eurico (PL-PE) | Alinhado: 91.9%
+- Pastor Gil (PL-MA) | Alinhado: 94.1%
+- Paula Belmonte (CIDADANIA-DF) | Alinhado: 81.6%
+- Paulo Abi-Ackel (PSDB-MG) | Alinhado: 90.8%
+- Paulo Azi (UNIÃO-BA) | Alinhado: 94.7%
+- Paulo Bengtson (PTB-PA) | Alinhado: 93.2%
+- Paulo Eduardo Martins (PL-PR) | Alinhado: 80.8%
+- Paulo Freire Costa (PL-SP) | Alinhado: 94.7%
+- Paulo Ganime (NOVO-RJ) | Alinhado: 69.6%
+- Paulo Magalhães (PSD-BA) | Alinhado: 93.1%
+- Pedro Augusto Bezerra (PDT-CE) | Alinhado: 80.9%
+- Pedro Augusto Palareti (PP-RJ) | Alinhado: 95.4%
+- Pedro Cunha Lima (PSDB-PB) | Alinhado: 80.2%
+- Pedro Lucas Fernandes (UNIÃO-MA) | Alinhado: 94.7%
+- Pedro Lupion (PP-PR) | Alinhado: 94.3%
+- Pedro Vilela (PSDB-AL) | Alinhado: 87.6%
+- Pedro Westphalen (PP-RS) | Alinhado: 95.2%
+- Pinheirinho (PP-MG) | Alinhado: 97.2%
+- Policial Katia Sastre (PL-SP) | Alinhado: 93.6%
+- Pr. Marco Feliciano (PL-SP) | Alinhado: 93.0%
+- Professor Alcides (PL-GO) | Alinhado: 96.4%
+- Professor Joziel (UNIÃO-RJ) | Alinhado: 89.6%
+- Professora Dayane Pimentel (UNIÃO-BA) | Alinhado: 83.2%
+- Professora Dorinha Seabra Rezende (UNIÃO-TO) | Alinhado: 88.4%
+- Raimundo Costa (PODE-BA) | Alinhado: 91.9%
+- Raul Henry (MDB-PE) | Alinhado: 78.0%
+- Reinhold Stephanes Junior (PSD-PR) | Alinhado: 91.1%
+- Renata Abreu (PODE-SP) | Alinhado: 79.7%
+- Ricardo Barros (PP-PR) | Alinhado: 93.0%
+- Ricardo Guidi (PSD-SC) | Alinhado: 94.1%
+- Ricardo Izar (REPUBLICANOS-SP) | Alinhado: 86.9%
+- Ricardo Silva (PSD-SP) | Alinhado: 74.1%
+- Ricardo Teobaldo (PODE-PE) | Alinhado: 87.5%
+- Ricardo da Karol (PSC-RJ) | Alinhado: 85.8%
+- Roberto Alves (REPUBLICANOS-SP) | Alinhado: 95.2%
+- Roberto de Lucena (REPUBLICANOS-SP) | Alinhado: 86.9%
+- Rodrigo Coelho (PODE-SC) | Alinhado: 86.1%
+- Rodrigo de Castro (UNIÃO-MG) | Alinhado: 92.5%
+- Rogério Peninha Mendonça (MDB-SC) | Alinhado: 91.5%
+- Roman (PP-PR) | Alinhado: 93.9%
+- Ronaldo Carletto (PP-BA) | Alinhado: 97.3%
+- Rosangela Gomes (REPUBLICANOS-RJ) | Alinhado: 94.7%
+- Rose Modesto (PSDB-MS) | Alinhado: 79.6%
+- Ruy Carneiro (PSDB-PB) | Alinhado: 82.1%
+- Samuel Moreira (PSDB-SP) | Alinhado: 80.8%
+- Sanderson (PL-RS) | Alinhado: 90.6%
+- Sargento Fahur (PSD-PR) | Alinhado: 88.3%
+- Sebastião Oliveira (AVANTE-PE) | Alinhado: 97.1%
+- Sergio Souza (MDB-PR) | Alinhado: 95.7%
+- Sergio Toledo (PL-AL) | Alinhado: 92.4%
+- Severino Pessoa (MDB-AL) | Alinhado: 95.7%
+- Shéridan (PSDB-RR) | Alinhado: 85.3%
+- Sidney Leite (PSD-AM) | Alinhado: 86.0%
+- Silas Câmara (REPUBLICANOS-AM) | Alinhado: 93.2%
+- Silvio Costa Filho (REPUBLICANOS-PE) | Alinhado: 92.7%
+- Soraya Santos (PL-RJ) | Alinhado: 97.4%
+- Stefano Aguiar (PSD-MG) | Alinhado: 93.0%
+- Sérgio Brito (PSD-BA) | Alinhado: 95.1%
+- Sóstenes Cavalcante (PL-RJ) | Alinhado: 87.9%
+- Tereza Nelma (PSD-AL) | Alinhado: 73.2%
+- Tiago Dimas (PODE-TO) | Alinhado: 92.4%
+- Tiago Mitraud (NOVO-MG) | Alinhado: 69.4%
+- Tito (AVANTE-BA) | Alinhado: 91.3%
+- Toninho Wandscheer (PROS-PR) | Alinhado: 96.2%
+- Uldurico Junior (MDB-BA) | Alinhado: 89.6%
+- Vaidon Oliveira (PROS-CE) | Alinhado: 95.1%
+- Valdevan Noventa (PL-SE) | Alinhado: 84.9%
+- Vanderlei Macris (PSDB-SP) | Alinhado: 82.6%
+- Vavá Martins (REPUBLICANOS-PA) | Alinhado: 94.1%
+- Vermelho (PL-PR) | Alinhado: 93.5%
+- Vicentinho Júnior (PP-TO) | Alinhado: 96.4%
+- Vinicius Carvalho (REPUBLICANOS-SP) | Alinhado: 94.6%
+- Vinicius Farah (MDB-RJ) | Alinhado: 91.3%
+- Vinicius Gurgel (PL-AP) | Alinhado: 97.0%
+- Vinicius Poit (NOVO-SP) | Alinhado: 69.4%
+- Vitor Lippi (PSDB-SP) | Alinhado: 85.3%
+- Walter Alves (MDB-RN) | Alinhado: 92.5%
+- Wilson Santiago (REPUBLICANOS-PB) | Alinhado: 94.5%
+- Zé Silva (SOLIDARIEDADE-MG) | Alinhado: 92.1%
+- Zé Vitor (PL-MG) | Alinhado: 93.4%
+- Átila Lins (PSD-AM) | Alinhado: 95.0%
+- Átila Lira (PP-PI) | Alinhado: 95.9%
 

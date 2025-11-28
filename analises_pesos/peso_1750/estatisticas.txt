@@ -27,15 +27,17 @@ Representatividade por partido:
 Soma dos pesos internos: 36027
 Média dos pesos internos: 1801.35
 
+Média de alinhamento da comunidade: 69.58%
+
 Deputados da comunidade:
-- deputado_204528 | Adriana Ventura (NOVO-SP)
-- deputado_204516 | Alexis Fonteyne (NOVO-SP)
-- deputado_204365 | Gilson Marques (NOVO-SC)
-- deputado_204523 | Lucas Gonzalez (NOVO-MG)
-- deputado_156190 | Marcel van Hattem (NOVO-RS)
-- deputado_204461 | Paulo Ganime (NOVO-RJ)
-- deputado_204519 | Tiago Mitraud (NOVO-MG)
-- deputado_204532 | Vinicius Poit (NOVO-SP)
+- Adriana Ventura (NOVO-SP) | Alinhado: 70.0%
+- Alexis Fonteyne (NOVO-SP) | Alinhado: 69.5%
+- Gilson Marques (NOVO-SC) | Alinhado: 70.0%
+- Lucas Gonzalez (NOVO-MG) | Alinhado: 69.7%
+- Marcel van Hattem (NOVO-RS) | Alinhado: 69.0%
+- Paulo Ganime (NOVO-RJ) | Alinhado: 69.6%
+- Tiago Mitraud (NOVO-MG) | Alinhado: 69.4%
+- Vinicius Poit (NOVO-SP) | Alinhado: 69.4%
 
 
 ----------------------------------------
@@ -47,9 +49,11 @@ Representatividade por partido:
 Soma dos pesos internos: 1783
 Média dos pesos internos: 1783.00
 
+Média de alinhamento da comunidade: 95.28%
+
 Deputados da comunidade:
-- deputado_204356 | Amaro Neto (REPUBLICANOS-ES)
-- deputado_204422 | Ossesio Silva (REPUBLICANOS-PE)
+- Amaro Neto (REPUBLICANOS-ES) | Alinhado: 95.2%
+- Ossesio Silva (REPUBLICANOS-PE) | Alinhado: 95.3%
 
 
 ----------------------------------------
@@ -62,7 +66,9 @@ Representatividade por partido:
 Soma dos pesos internos: 1770
 Média dos pesos internos: 1770.00
 
+Média de alinhamento da comunidade: 91.82%
+
 Deputados da comunidade:
-- deputado_81297 | Dra. Soraya Manato (PTB-ES)
-- deputado_204455 | Luiz Lima (PL-RJ)
+- Dra. Soraya Manato (PTB-ES) | Alinhado: 92.2%
+- Luiz Lima (PL-RJ) | Alinhado: 91.4%
 
